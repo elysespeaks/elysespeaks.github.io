@@ -1,15 +1,17 @@
+// Research.jsx
 import { useEffect, useState } from 'react';
+import { marked } from 'marked';
 
 export default function Research() {
   const [html, setHtml] = useState('');
 
   useEffect(() => {
-    fetch('/content/research.md')
+    fetch('/content/research.md')        // file lives in /public/content
       .then(res => res.text())
-      .then(md => import('marked').then(m => setHtml(m.marked.parse(md))));
+      .then(text => setHtml(marked.parse(text)));
   }, []);
 
   return (
-    <main className="prose mx-auto p-4" dangerouslySetInnerHTML={{ __html: html }} />
+    <main style={{ padding: '1rem' }} dangerouslySetInnerHTML={{ __html: html }} />
   );
 }
