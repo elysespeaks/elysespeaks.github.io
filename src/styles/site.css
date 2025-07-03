@@ -1,0 +1,174 @@
+/* ──────────────────────────────────────────────
+   site.css  —  global styles + utility classes
+   Works for Home, Research, Teaching pages
+   ────────────────────────────────────────────── */
+
+/* 0. Custom properties (theme tokens) */
+:root {
+    --font-body: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-head: "Merriweather", Georgia, "Times New Roman", serif;
+  
+    --color-bg:   #f7f8f9;   /* ⬅︎ background */
+    --color-text: #222;      /* high contrast on light bg */
+    --color-accent:#004a80;  /* links + highlights */
+    --color-muted:#676767;   /* secondary text */
+  
+    --content-max: 780px;            /* readable line length */
+  }
+  
+  
+  /* 1. Resets & base typography */
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  img { max-width: 100%; height: auto; display: block; }
+  
+  /* 2. Heading rhythm */
+  h1, h2, h3, h4 {
+    font-family: var(--font-head);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 1.2em 0 0.6em;
+  }
+  h1 { font-size: clamp(1.8rem, 5vw, 2.4rem); margin-top: 0; }
+  
+  p, ul, ol, table { margin: 0.8em 0; }
+  
+  a {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  a:hover { text-decoration: underline; }
+  
+  /* 3. Layout helpers */
+  .container {
+    max-width: var(--content-max);
+    margin-inline: auto;
+    padding: 1.2rem 1.25rem;          /* horizontal padding collapses on mobile */
+  }
+
+  .container-left {
+    padding: 1.2rem 1.25rem;
+  }
+  
+  /* flex gap utility (small) */
+  .flex-gap-sm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+  }
+  
+  /* 4. Card list for Teaching page */
+  .card-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+  }
+  @media (min-width: 500px) {
+    .card-list { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  }
+  .card {
+    border: 1px solid color-mix(in srgb, var(--color-accent) 15%, transparent);
+    border-radius: 6px;
+    padding: 0.9rem 1rem;
+    background: color-mix(in srgb, var(--color-bg) 90%, var(--color-accent) 2%);
+    transition: border-color .2s;
+  }
+  .card a { font-weight: 600; }
+  .card:hover { border-color: var(--color-accent); text-decoration: none;}
+  
+  /* 5. Utility class for muted text */
+  .muted { color: var(--color-muted); font-size: 0.95rem; }
+  
+  /* 6. Tables (syllabus, research lists) */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.95rem;
+    overflow-x: auto;          /* mobile scroll if needed */
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 0.45rem 0.6rem;
+    vertical-align: top;
+  }
+  thead {
+    background: color-mix(in srgb, var(--color-accent) 15%, var(--color-bg));
+  }
+  tbody tr:nth-child(odd) {
+    background: color-mix(in srgb, var(--color-bg) 90%, var(--color-accent) 3%);
+  }
+
+ /* ───────────────────────────────
+   VIBRANT CIRCULAR NAV BUTTONS
+   ───────────────────────────────*/
+
+/* 1.  Layout bar (no underline) */
+.navbar {
+    display: flex;
+    gap: 0.9rem;
+    align-items: center;
+    padding: 0.9rem 1.25rem;
+  }
+  
+  /* 2.  Generic circle style */
+  .nav-btn {
+    --size: 70px;                    /* tweak once */
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 600 0.8rem/1 var(--font-body);
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,.15);
+    transition: transform .15s, box-shadow .15s;
+  }
+  .nav-btn:hover,
+  .nav-btn:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,.18);
+    text-decoration: none;
+  }
+  
+  /* 3.  Individual colours (inspired by Elyse’s old site) */
+  .nav-home     { background:#f94144; } /* bright coral-red   */
+  .nav-teaching { background:#f9c74f; } /* sunflower gold     */
+  .nav-research { background:#90be6d; } /* fresh spring green */
+  
+  /* 4.  Active state gets a subtle ring */
+  .nav-btn[aria-current="page"] {
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-bg) 80%, transparent),
+                0 4px 10px rgba(0,0,0,.6);
+  }
+  /* mobile wrap if needed */
+  @media (max-width: 480px) {
+    .navbar { flex-wrap: wrap; gap: 0.5rem 0.75rem; }
+  }
+  
+  
+  /* 7. Skip-to-content link (accessibility) */
+  .skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--color-accent);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    z-index: 1000;
+    transition: top 0.2s;
+  }
+  .skip-link:focus { top: 0; }
+  
+ 
+  

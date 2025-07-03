@@ -1,4 +1,4 @@
-# Contact Information  
+
 
 Have a question? Want to discuss your progress, art-history majors/minors, or a topic we covered?
 

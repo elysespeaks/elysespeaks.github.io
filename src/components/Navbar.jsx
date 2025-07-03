@@ -1,17 +1,12 @@
-import { NavLink } from 'react-router-dom';
-
-const linkStyle = ({ isActive }) => ({
-  marginRight: '1rem',
-  textDecoration: 'none',
-  color: isActive ? '#0070f3' : '#333',
-});
+import { NavLink } from "react-router-dom";
+import "../styles/site.css";
 
 export default function Navbar() {
   return (
-    <nav style={{ padding: '1rem' }}>
-      <NavLink to="/"         style={linkStyle}>Home</NavLink>
-      <NavLink to="/research" style={linkStyle}>Research</NavLink>
-      <NavLink to="/teaching" style={linkStyle}>Teaching</NavLink>
+    <nav className="navbar">
+      <NavLink to="/"         className="nav-btn nav-home"     aria-label="Home">Home</NavLink>
+      <NavLink to="/teaching" className="nav-btn nav-teaching" aria-label="Teaching">Teaching</NavLink>
+      <NavLink to="/research" className="nav-btn nav-research" aria-label="Research">Research</NavLink>
     </nav>
   );
 }

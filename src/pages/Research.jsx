@@ -12,6 +12,6 @@ export default function Research() {
   }, []);
 
   return (
-    <main style={{ padding: '1rem' }} dangerouslySetInnerHTML={{ __html: html }} />
+    <main style={{ padding: '1rem', marginLeft: '1rem' }} dangerouslySetInnerHTML={{ __html: html }} />
   );
 }

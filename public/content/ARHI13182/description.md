@@ -1,5 +1,4 @@
-# ARHI 13182 — University Seminar  
-**Professor Elyse Speaks**
+
 
 ### Schedule  
 - **Time**  Tuesday & Thursday 11:00 – 12:15 pm  
