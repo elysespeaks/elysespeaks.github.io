@@ -6,7 +6,7 @@ export default function Research() {
   const [html, setHtml] = useState('');
 
   useEffect(() => {
-    fetch('/content/research.md')        // file lives in /public/content
+    fetch('/content/Research.md')        // file lives in /public/content
       .then(res => res.text())
       .then(text => setHtml(marked.parse(text)));
   }, []);
