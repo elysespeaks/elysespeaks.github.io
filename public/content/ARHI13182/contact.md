@@ -1,5 +1,3 @@
-
-
 Have a question? Want to discuss your progress, art-history majors/minors, or a topic we covered?
 
 - **Email:** espeaks@nd.edu  — best for quick questions  

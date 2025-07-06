@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-* *Women, Making, and Everyday Value in Contemporary Installation Art: Stockholder, Lou, Sze* (forthcoming, Bloomsbury Academic Press, 2025).
+* *Women, Making, and Everyday Value in Contemporary Installation Art: Stockholder, Lou, Sze* (Bloomsbury Academic Press, 2025).
 * Co-editor, “Modern and Contemporary Art: Topical Abstraction in Contemporary Sculpture,” *Arts* 13 (4) (2024).
 * “Modernist Antagonisms and Material Reciprocities: Chase-Riboud’s *Albino*,” *Arts* 13 (3) (2024).
 * “Marcia Tucker’s Domestic Politics: Art and Craft in the 1990s,” *The Journal of Modern Craft* (2022), 295-311.
@@ -19,7 +19,7 @@
 
 ---
 
-## Selected Professional Papers
+## Selected Presentations
 
 * CIHA, Matter/Materiality — “Barbara Chase Riboud’s *The Albino*,” panel “Bodies that Matter” (June 2024).
 * College Art Association — “Material Reciprocities and the Reinvention of Sculptural Tradition,” panel “Black Pasts-Black Futures” (Feb 2024).
