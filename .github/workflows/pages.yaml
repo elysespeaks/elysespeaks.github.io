@@ -23,6 +23,10 @@ jobs:
       - run: npm ci
       - run: npm run build
 
+
+      # 🔑 copy the built index --> 404 so deep URLs work
+      - run: cp build/index.html build/404.html
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./build
