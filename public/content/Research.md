@@ -2,20 +2,63 @@
 
 ## Selected Publications
 
-* *Women, Making, and Everyday Value in Contemporary Installation Art: Stockholder, Lou, Sze* (Bloomsbury Academic Press, 2025).
-* Co-editor, “Modern and Contemporary Art: Topical Abstraction in Contemporary Sculpture,” *Arts* 13 (4) (2024).
-* “Modernist Antagonisms and Material Reciprocities: Chase-Riboud’s *Albino*,” *Arts* 13 (3) (2024).
-* “Marcia Tucker’s Domestic Politics: Art and Craft in the 1990s,” *The Journal of Modern Craft* (2022), 295-311.
-* “Artistic Process and Domestic Labor in Liza Lou’s *Kitchen*,” *American Art* 35 (2) (Summer 2021), 102-123.
-* “Thin Art: Karla Black’s Pretenses,” in *Karla Black: Twenty Years*, ed. Alison Ferris, Des Moines Art Center, 2020.
-* “The Culture of Collecting,” *In Focus: Black Wall* (1959) by Louise Nevelson, ed. Alex Taylor, Tate Research Publication, 2016.
-* “Sloppy Craft as Temporal Drag,” with Elissa Auther, in *Sloppy Craft: Interdisciplinarity and the Crafts*, Bloomsbury Press, 2015.
-* “The Transparent Signifier: Hirst, Invisibility, and Critique,” in *Sculpture and the Vitrine*, ed. John Welchman, Ashgate Press, 2013, 231-250. [(PDF)](/public/content/papers/Speaks-hirst.pdf)
-* “The Terms of Craft and Other Means of Making: Lee Bontecou’s Hybrid Trajectory,” *Art Journal* 54 (Winter 2012), 54-71. [(PDF)](/public/content/papers/Speaks-Bontecout-craft-AJ.pdf)
-* “Space, Gender, Sculpture: Bourgeois, Nevelson, and the Changing Conditions of Sculpture in the 1950s,” special issue “Women Inventing the 1950s,” *Women’s Studies* 40 (8) (2011), 1052-1091. [(PDF)](/public/content/papers/Speaks_Space_gender_Sculpture_WS_11.pdf)
-* “Recasting Sculptural Function: Use and Misuse in the Work of Bontecou, Bourgeois and Nevelson,” *The Sculpture Journal* 19 (2) (2010). [(PDF)](/public/content/papers/Speaks_Recasting_sculptural_function_10.pdf)
-* “‘We Bring Our *Lares* With Us:’ Bodies and Domiciles in the Sculpture of Louise Bourgeois,” *Art Journal* 68 (3) (Fall 2009), 88-103. [(PDF)](/public/content/papers/Speaks_Bourgeois_AJ_download.pdf)
-* “Experiencing Louise Nevelson’s *Moon Garden*,” *American Art* 21 (2) (2007), 96-108. [(PDF)](/public/content/papers/Speaks_Nevelson_AA_07.pdf)
+### *Women, Making, and Everyday Value in Contemporary Installation Art: Stockholder, Lou, Sze* <ChainIconLink href="https://www.bloomsbury.com/us/women-making-and-everyday-value-in-contemporary-installation-art-9781350497788/" />
+
+Bloomsbury Academic Press, 2025
+
+### Co-editor, “Modern and Contemporary Art: Topical Abstraction in Contemporary Sculpture” 
+
+*Arts* 13 (4) (2024)
+
+### “Modernist Antagonisms and Material Reciprocities: Chase-Riboud’s *Albino*” <ChainIconLink href="https://www.mdpi.com/2076-0752/13/3/97" />
+
+*Arts* 13 (3) (2024)
+
+### “Marcia Tucker’s Domestic Politics: Art and Craft in the 1990s” 
+
+*The Journal of Modern Craft* (2022), 295-311
+
+### “Artistic Process and Domestic Labor in Liza Lou’s *Kitchen*” 
+
+*American Art* 35 (2) (Summer 2021), 102-123
+
+### “Thin Art: Karla Black’s Pretenses” 
+
+*Karla Black: Twenty Years*, ed. Alison Ferris, Des Moines Art Center, 2020
+
+### “The Culture of Collecting” <ChainIconLink href="https://www.tate.org.uk/research/in-focus/black-wall-louise-nevelson/culture-of-collecting" />
+
+*In Focus: Black Wall* (1959) by Louise Nevelson, ed. Alex Taylor, Tate Research Publication, 2016
+
+### “Sloppy Craft as Temporal Drag,” 
+
+with Elissa Auther, in *Sloppy Craft: Interdisciplinarity and the Crafts*, Bloomsbury Press, 2015
+
+### “The Transparent Signifier: Hirst, Invisibility, and Critique” <PDFIconLink href="https://drive.google.com/file/d/1EsLA_19_mOUgR4XQsvtZ7un1n88yaJ6k/view" />
+
+*Sculpture and the Vitrine*, ed. John Welchman, Ashgate Press, 2013, 231-250   
+
+### “The Terms of Craft and Other Means of Making: Lee Bontecou’s Hybrid Trajectory”  <PDFIconLink href="https://drive.google.com/file/d/1IqouPEXTq1KHgxzzGjfOxQ7NPmL1y5d4/view" />
+
+*Art Journal* 54 (Winter 2012), 54-71
+
+### “Space, Gender, Sculpture: Bourgeois, Nevelson, and the Changing Conditions of Sculpture in the 1950s” <PDFIconLink href="https://drive.google.com/file/d/1NLFgSa_cuVvdPn7c-w3C6XKpwF3oqtF5/view" />
+
+*Women’s Studies* 40 (8) (2011), 1052-1091 (special issue: “Women Inventing the 1950s”)
+
+### “Recasting Sculptural Function: Use and Misuse in the Work of Bontecou, Bourgeois and Nevelson”  <PDFIconLink href="https://drive.google.com/file/d/18cwvQyhf5sfS5NyVY29ZNo1-X3_bGrb-/view" />
+
+*The Sculpture Journal* 19 (2) (2010)
+
+### “‘We Bring Our *Lares* With Us:’ Bodies and Domiciles in the Sculpture of Louise Bourgeois”  <PDFIconLink href="https://drive.google.com/file/d/1WL5YPI3zZm6ilHvoF9BfqfGX3gubyZz-/view" />
+
+*Art Journal* 68 (3) (Fall 2009), 88-103
+
+### “Experiencing Louise Nevelson’s *Moon Garden*”  <PDFIconLink href="https://drive.google.com/file/d/1tMm8G7jNyU4uwSbWi3w3DZ5hABMF5CdO/view" />
+
+*American Art* 21 (2) (2007), 96-108
+
+
 
 ---
 

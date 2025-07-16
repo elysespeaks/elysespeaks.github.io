@@ -1,0 +1,42 @@
+Check back as this site will be updated throughout the semester.
+
+* [ARHI 30531 YouTube playlist](http://www.youtube.com/playlist?list=PL39C8ADB1D313EC70&feature=plcp)
+* [ND Quicksearch for art history](http://xerxes.library.nd.edu/quicksearch/databases/subject/art-art-history-design) — handy for research and images
+* [Art21 homepage](http://www.pbs.org/art21/) (images, clips, interviews with many artists we study)
+* [Museum of Contemporary Art, Chicago](http://www.mcachicago.org/)
+* [Art Institute of Chicago](http://www.artic.edu/)
+* [UbuWeb – film & video archive](http://ubuweb.com/)
+* [Maryland Historical Society – “Mining the Museum” images by Fred Wilson](http://www.mdhs.org/digital-images) ↳ search *Mining the Museum* in the subject line
+* [Google Art Project](http://www.googleartproject.com/) — virtual museum visits
+* [Nick Cave – Jack Shainman Gallery](https://jackshainman.com/artists/nick_cave)
+* [Who is Mona Hatoum? – Tate](https://www.tate.org.uk/art/artists/mona-hatoum-2365/who-is-mona-hatoum)
+* [The Art of Kara Walker](http://learn.walkerart.org/karawalker/Main/Narrative)
+* [Kehinde Wiley — official site](http://www.kehindewiley.com/)
+* [Shinique Smith — official site](http://shiniquesmith.com/?p=475)
+* [Paul Pfeiffer on Art21](http://www.pbs.org/art21/artists/paul-pfeiffer)
+* [Paul Pfeiffer interview – *BOMB* magazine](http://bombsite.com/issues/83/articles/2543)
+* [Renée Green – *30 Americans*](http://www2.corcoran.org/30americans/artists/renee-green)
+* [Renée Green – *Endless Dreams and Water Between*](http://www.rmg.co.uk/visit/exhibitions/past/renee-green-endless-dreams-and-water-between)
+* [Carrie Mae Weems — official site](http://carriemaeweems.net/index.html)
+* [Carrie Mae Weems on Art21](http://www.pbs.org/art21/artists/carrie-mae-weems/)
+* [Jimmie Durham interview – *BOMB*](http://bombsite.com/issues/118/articles/6268)
+* [Jimmie Durham – *A Matter of Life and Death and Singing* exhibition](http://www.muhka.be/jimmiedurham/)
+* [James Luna — official site](http://www.jamesluna.com/)
+* [Lorraine O’Grady presentation (ca. 2010)](http://lorraineogrady.com/sites/default/files/06_UBuffalo_OGrady%20Lecture_HD.mp4)
+* [Pepon Osorio article – *BOMB* magazine](http://bombsite.com/issues/82/articles/2531)
+* [*Burka Avenger* official site](http://www.burkaavenger.com/)
+* *William Kentridge* documentaries  
+  * [*Anything Is Possible* (PBS)](http://www.art21.org/anythingispossible/video/full-feature-william-kentridge-anything-is-possible/)  
+  * [*Art from the Ashes* (Films on Demand – ND login)](http://digital.films.com.proxy.library.nd.edu/play/AGUFRP)
+* Shirin Neshat film excerpts: [*Fervor*](http://v.youku.com/v_show/id_XMzU4ODYwMjMy.html) • [*Turbulent*](http://vimeo.com/74731033)
+* [Martha Rosler — official site](http://home.earthlink.net/~navva/index.html)
+* [Jeff Koons — official site](http://www.jeffkoons.com/)
+* [Allan McCollum — official site](http://allanmccollum.net/allanmcnyc/)
+* [Mike’s World — Michael Smith](http://www.mikes-world.org/)
+* [Rirkrit Tiravanija at MoMA](http://www.moma.org/explore/inside_out/2012/02/03/rirkrit-tiravanija-cooking-up-an-art-experience)
+* [Santiago Sierra – “7 Forms” performance](http://kaldorartprojects.org.au/project-archive/santiago-sierra-2010)
+* [Thomas Hirschhorn – *Gramsci Monument*](http://www.gramsci-monument.com/)
+* Michael Rakowitz  
+  * [*Enemy Kitchen* (video)](http://vimeo.com/38961312)  
+  * [Project archive](http://michaelrakowitz.com/projects/)
+* [*Feast: Radical Hospitality in Contemporary Art* (Smart Museum)](http://smartmuseum.uchicago.edu/exhibitions/feast/)

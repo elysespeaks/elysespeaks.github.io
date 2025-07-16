@@ -1,0 +1,21 @@
+/* 1) Style the title line */
+#research-page h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0rem;
+  font-size: 1em;           /* slightly larger */
+  color: var(--color1, #222); /* your accent color */
+  font-family: var(--font-body, sans-serif);
+  font-weight: 500;
+}
+
+/* 2) Style the detail paragraph immediately after */
+#research-page h3 + p {
+  font-size: 0.8em;
+  line-height: 1.4;
+  font-family: var(--font-body, sans-serif);
+  color: gray;
+  margin-left: 30px;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-weight: 400;
+}

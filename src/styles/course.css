@@ -1,51 +1,178 @@
-/* layout skeleton */
-.course-layout { display: flex; flex-direction: column; }
-
-/* full-width title bar */
-.course-header {
-  padding: 1rem 1.25rem 0.4rem;
-}
-.course-header h1 { margin: 0; }
-
-/* grid beneath header */
+/* ─────────────  TWO‑COLUMN LAYOUT  ───────────── */
 .course-body {
   display: flex;
   gap: 1.5rem;
-  padding: 0 1.25rem 1.25rem;
+  padding: 1.25rem;
 }
 
-/* square tile nav (updated sizes + sharp edges) */
-.course-nav {
+/* left column */
+.course-aside {
+  flex: 0 0 230px;          /* fixed-ish width */
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
 }
+
+/* course title */
+.course-title {
+  margin: 0 0 1rem;
+  font-size: 1.9rem;
+  line-height: 1.3;
+}
+
+/* ─────────────  TWO‑COLUMN GRID OF BUTTONS  ───────────── */
+.course-nav {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* two buttons per row */
+ /* tighten just the horizontal gap */
+  column-gap: 0rem;   /* ← smaller distance between columns */
+  row-gap: 0.8rem;       /* keep vertical spacing (adjust as you like) */
+}
+
+/* menu buttons (inherit your existing colors / shadows) */
 .course-tile {
-  width: 75px;
-  height: 75px;
-  border: none;
-  margin-bottom: 0.4rem;
-  border-radius: 0.3;             /* sharp corners */
-  background: #f9c74f;
-  color: white;
-  font: 600 0.75rem/1 var(--font-body, "Inter", sans-serif);
-  box-shadow: 0 1px 4px rgba(0,0,0,.12);
+  height: 90px;
+  width: 90px;
   cursor: pointer;
-  transition: background .18s, transform .14s;
+  border: none;
+  border-radius: 3px;
+  background: #ececec;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+  color: white;
+  margin: 0;
+  
 }
-.course-tile:hover:not(.is-active) { background:#f94144; transform:translateY(-2px); }
-.course-tile.is-active            { background:#90be6d; color:#fff; }
 
-/* main reading column */
+.course-tile:nth-child(1),
+.course-tile:nth-child(4),
+.course-tile:nth-child(5) {
+  /* whatever styles you want */
+  background: var(--color-blue);
+}
+
+.course-tile:nth-child(2),
+.course-tile:nth-child(3) {
+  /* whatever styles you want */
+  background: var(--color-green);
+}
+
+.course-tile:hover {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.course-tile.is-active {
+  background: var(--color-red);
+}
+
+/* right column */
 .course-main {
-  max-width: 760px;
-  width: 100%;
-  line-height: 1.55;
+  flex: 1 1 auto;
+  background-color: white;;
+  min-width: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.4); 
+  padding: 2rem;      /* prevents overflow */
 }
-.course-main h2 { margin: 1.2rem 0 0.6rem; color:#006d77; }
 
-/* responsive stack */
+.course-main h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  line-height: 1.1;
+  color: gray;
+}
+
+.course-main h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  line-height: 1.1;
+  color: var(--color-blue);
+}
+
+/* ─────────────  TABLE STYLING, INCLUDING SYLLABUS  ───────────── */
+
+table{
+  font-size: 14px;
+}
+
+table td {
+  padding: 0.7rem;
+}
+/* 1) Collapse borders so nothing doubles‑up */
+table {
+  border-collapse: collapse;   /* merges borders into one */
+  border-spacing: 0;           /* removes the gap older HTML can add */
+}
+
+/* 2) Kill every cell border */
+table,
+table th,
+table td {
+  border: none;                /* wipe out any line that was set */
+}
+
+/* 3) Optional: also remove the default outlines browsers may add */
+table th,
+table td {
+  outline: none;
+}
+
+/* Rounded left edge of each row */
+table tr > th:first-child,
+table tr > td:first-child {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+/* Rounded right edge of each row */
+table tr > th:last-child,
+table tr > td:last-child {
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+
+/* first <tr> inside the table */
+table > tr:first-child,
+table thead > tr:first-child {         /* covers both markup styles */
+  background: var(--color-blue);
+  color: #fff;
+}
+
+
+/* striping on <tbody> rows or all rows after the first */
+table tbody tr:nth-child(odd),
+table > tr:nth-child(n + 2):nth-child(odd) {   /* fallback if no <tbody> */
+  background: lightgray;   /* light gray‑blue */
+}
+
+table tbody tr:nth-child(even),
+table > tr:nth-child(n + 2):nth-child(even) {
+  background: #ffffff;   /* plain white */
+}
+
+
+/* ─────────────  for password check  ───────────── */
+
+
+.gate-overlay {
+  position: fixed; inset: 0;
+  background:#ffffffcc; display:flex; align-items:center; justify-content:center;
+  z-index: 9999;
+}
+.gate-box {
+  background:#fff; padding:2rem 2.5rem; border-radius:8px; box-shadow:0 4px 18px rgba(0,0,0,.15);
+  text-align:center;
+}
+.gate-box input { width:12rem; padding:0.4rem; margin-top:0.6rem; }
+.gate-box button { margin-top:0.9rem; padding:0.4rem 1rem; }
+.gate-error { color:#c33; margin-top:0.6rem; }
+
+
+/* ─────────────  RESPONSIVE (STACK ON SMALL SCREENS)  ───────────── */
 @media (max-width: 640px) {
-  .course-body { flex-direction: column; }
-  .course-nav  { flex-direction: row; flex-wrap: wrap; }
+  .course-body {
+    flex-direction: column;
+  }
+  .course-nav {
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  }
 }

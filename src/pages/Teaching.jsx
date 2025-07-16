@@ -17,17 +17,17 @@ export default function Teaching() {
 
       {/* ------------------------------------------------- */}
       <h3>2024-25</h3>
-      <p>ARHI 30423: Global Modern & Contemporary Art (spring)</p>
-      <p>ARHI 43481: Slackers, Critics, and Makers (spring)</p>
+      <p><Link to="/courses/ARHI30423">ARHI 30423: Global Modern & Contemporary Art (spring)</Link></p>
+      <p><Link to="/courses/ARHI43481">ARHI 43481: Slackers, Critics, and Makers (spring)</Link></p>
       <p>ARHI 13182: USEM (fall)</p>
-      <p>ARHI 30531: Art, Vision, and Difference (fall)</p>
+      <p><Link to="/courses/ARHI30531">ARHI 30531: Art, Vision, and Difference (fall)</Link></p>
 
       {/* ------------------------------------------------- */}
       <h3>2023-24</h3>
       <p>ARHI 13182: USEM (spring)</p>
       <p>ARHI 43406: Art and the Everyday (spring)</p>
       <p>ARHI 30482: Art Now (fall)</p>
-      <p>ARHI 30489: Art in Chicago (fall)</p>
+      <p><Link to="/courses/ARHI30489">ARHI 30489: Art in Chicago (fall)</Link></p>
 
       {/* ------------------------------------------------- */}
       <h3>2022-23</h3>

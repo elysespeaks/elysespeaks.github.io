@@ -5,17 +5,29 @@
 
 /* 0. Custom properties (theme tokens) */
 :root {
-    --font-body: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-body: "Inter", "Geneva", Helvetica, Arial, sans-serif;
     --font-head: "Merriweather", Georgia, "Times New Roman", serif;
   
     --color-bg:   #f7f8f9;   /* ⬅︎ background */
     --color-text: #222;      /* high contrast on light bg */
     --color-accent:#004a80;  /* links + highlights */
     --color-muted:#676767;   /* secondary text */
-  
-    --content-max: 780px;            /* readable line length */
+  --color-green: #00C853;
+  --color-blue:  #03A9F4;
+  --color-red: #ff0266;
+    --content-max: 1000px;            /* readable line length */
   }
   
+
+  /* smooth background fade everywhere */
+body {
+  transition: background-color 0.6s ease;
+}
+
+/* gentle blue tint (adjust to taste) */
+body.blue-course {
+  background-color: #eef6ff;   /* alice blue‑ish */
+}
   
   /* 1. Resets & base typography */
   *, *::before, *::after { box-sizing: border-box; }
@@ -133,6 +145,7 @@
     text-decoration: none;
     box-shadow: 0 2px 6px rgba(0,0,0,.15);
     transition: transform .15s, box-shadow .15s;
+    background: #00C853;
   }
   .nav-btn:hover,
   .nav-btn:focus-visible {
@@ -141,15 +154,11 @@
     text-decoration: none;
   }
   
-  /* 3.  Individual colours (inspired by Elyse’s old site) */
-  .nav-home     { background:#f94144; } /* bright coral-red   */
-  .nav-teaching { background:#f9c74f; } /* sunflower gold     */
-  .nav-research { background:#90be6d; } /* fresh spring green */
+
   
-  /* 4.  Active state gets a subtle ring */
+  /* 4.  Active state color */
   .nav-btn[aria-current="page"] {
-    box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-bg) 80%, transparent),
-                0 4px 10px rgba(0,0,0,.6);
+    background: #03A9F4;
   }
   /* mobile wrap if needed */
   @media (max-width: 480px) {
