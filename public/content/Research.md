@@ -1,6 +1,7 @@
 # Research
 
 ## Selected Publications
+
 test
 * *Women, Making, and Everyday Value in Contemporary Installation Art: Stockholder, Lou, Sze* (Bloomsbury Academic Press, 2025).
 * Co-editor, “Modern and Contemporary Art: Topical Abstraction in Contemporary Sculpture,” *Arts* 13 (4) (2024).
