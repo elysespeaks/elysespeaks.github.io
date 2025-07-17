@@ -138,16 +138,21 @@ table thead > tr:first-child {         /* covers both markup styles */
 }
 
 
-/* striping on <tbody> rows or all rows after the first */
-table tbody tr:nth-child(odd),
-table > tr:nth-child(n + 2):nth-child(odd) {   /* fallback if no <tbody> */
-  background: lightgray;   /* light gray‑blue */
+/* striping on ordinary rows only */
+table tbody tr:nth-child(odd):not(.courseSection):not(.semesterBreak):not(.dueDate),
+table > tr:nth-child(n + 2):nth-child(odd):not(.courseSection):not(.semesterBreak):not(.dueDate) {
+  background: lightgray;
 }
 
-table tbody tr:nth-child(even),
-table > tr:nth-child(n + 2):nth-child(even) {
-  background: #ffffff;   /* plain white */
+table tbody tr:nth-child(even):not(.courseSection):not(.semesterBreak):not(.dueDate),
+table > tr:nth-child(n + 2):nth-child(even):not(.courseSection):not(.semesterBreak):not(.dueDate) {
+  background: #ffffff;
 }
+
+/* special merged rows */
+tr.courseSection   > td { background: var(--color-green) !important; text-align: center;}
+tr.semesterBreak   > td { background: var(--color-blue)  !important; text-align: center;}
+tr.dueDate         > td { background: var(--color-blue)  !important; text-align: center;}
 
 
 /* ─────────────  for password check  ───────────── */

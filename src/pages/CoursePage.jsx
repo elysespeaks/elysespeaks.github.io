@@ -4,6 +4,8 @@ import PasswordGate from '../components/PasswordGate';
 import { marked } from 'marked';
 import parse from 'html-react-parser';
 import '../styles/course.css';
+import SyllabusContent from '../components/SyllabusContent';
+
 
 /*  Built‑in tab list (key = markdown filename) */
 const tabs = [
@@ -91,17 +93,15 @@ export default function CoursePage() {
   }, [courseId]);
 
   /* fetch tab content whenever courseId or active changes */
-  useEffect(() => {
-    if (!courseId) return;
-    fetchCourseFile(courseId, `${active}.md`)
-  .then(md => {
-    if (!md) md = '# Coming soon';
-    const heading = `<h2>${tabs.find(t => t.key === active).label}</h2>`;
-    setHtml(heading + marked.parse(md));
-  })
-  .catch(() => setHtml('<p>Content unavailable.</p>'));
+/* fetch tab content whenever courseId or active changes */
+useEffect(() => {
+  if (!courseId) return;
 
-  }, [courseId, active]);
+  fetchCourseFile(courseId, `${active}.md`)
+    .then(md => setHtml(md || '# Coming soon'))
+    .catch(() => setHtml('# Content unavailable.'));
+}, [courseId, active]);
+
 
   /* ────────── show gate first, if needed ────────── */
   if (!unlocked && requiredPass) {
@@ -138,9 +138,15 @@ export default function CoursePage() {
         </aside>
 
         {/* RIGHT column */}
-        <main className="course-main">
-          <article>{parse(html)}</article>
-        </main>
+<main className="course-main">
+  <article>
+    {active === 'syllabus'
+      ? <SyllabusContent markdown={html} headingHtml={`<h2>Syllabus</h2>`} />
+      : parse(`<h2>${tabs.find(t => t.key === active).label}</h2>` + marked.parse(html))
+    }
+  </article>
+</main>
+
       </div>
     </div>
   );

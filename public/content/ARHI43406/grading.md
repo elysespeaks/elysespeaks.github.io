@@ -1,4 +1,4 @@
-## Course Requirements
+### Course requirements
 
 The primary means of evaluation will be presentations and papers, but preparation and participation will weigh heavily in your final grade as well.
 

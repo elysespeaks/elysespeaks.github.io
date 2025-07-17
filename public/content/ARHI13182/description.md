@@ -14,7 +14,7 @@
 
 ### Topic
 
-_First-year students only._  
+*First-year students only.* 
 
 In this seminar we study and write about a wide range of works of art in local museums. Focus objects span the history of art and include painting, photography, sculpture, prints and more, produced in the Americas, Africa, and Europe. Class meetings center on close looking, historical context, and discussion of readings and writing assignments. Written work consists of several short papers and a longer research paper submitted at semester’s end.  
 **Credits:** 3
