@@ -8,7 +8,7 @@ Bloomsbury Academic Press, 2025
 
 ### Co-editor, “Modern and Contemporary Art: Topical Abstraction in Contemporary Sculpture” 
 
-*Arts* 13 (4) (2024) test
+*Arts* 13 (4) (2024) 
 
 ### “Modernist Antagonisms and Material Reciprocities: Chase-Riboud’s *Albino*” <ChainIconLink href="https://www.mdpi.com/2076-0752/13/3/97" />
 
