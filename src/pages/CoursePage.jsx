@@ -14,6 +14,28 @@ const tabs = [
   { key: 'links',       label: 'Useful links' },
 ];
 
+// Helper – first try /content/{courseID}/…, then fall back to /content/archive/{courseID}/…
+function fetchCourseFile(courseID, file) {
+  const primary  = `/content/${courseID}/${file}`;
+  const fallback = `/content/archive/${courseID}/${file}`;
+
+  // fetch the file only if it really is Markdown (not the SPA HTML fallback)
+  const getIfMarkdown = url =>
+    fetch(url).then(async res => {
+      if (!res.ok) return null;                // network / 404 error
+      const text = await res.text();           // dev server 404s still return 200 + index.html
+      return text.trim().startsWith('<')       // HTML → not our Markdown
+        ? null
+        : text;
+    });
+
+  // try live folder first; if that fails, fall back to archive
+  return getIfMarkdown(primary).then(
+    text => (text !== null ? text : getIfMarkdown(fallback))
+  );
+}
+
+
 export default function CoursePage() {
   /* ────────── router param ────────── */
   const { courseId } = useParams();
@@ -24,6 +46,9 @@ export default function CoursePage() {
     () => localStorage.getItem(`${courseId}-unlocked`) === '1'
   );
 
+
+
+
   /* check localStorage again if courseId changes */
   useEffect(() => {
     setUnlocked(localStorage.getItem(`${courseId}-unlocked`) === '1');
@@ -32,10 +57,9 @@ export default function CoursePage() {
   /* fetch password.md only if not already unlocked */
   useEffect(() => {
     if (unlocked) return;
-    fetch(`/content/${courseId}/password.md`)
-      .then(r => (r.ok ? r.text() : null))
-      .then(pass => setRequiredPass(pass))        // null → no gate
-      .catch(() => setRequiredPass(null));
+   fetchCourseFile(courseId, 'password.md')
+  .then(pass => setRequiredPass(pass))          // null → no gate
+  .catch(() => setRequiredPass(null));
   }, [courseId, unlocked]);
 
   /* ────────── optional blue tint per course ────────── */
@@ -56,22 +80,27 @@ export default function CoursePage() {
   /* fetch course title once */
   useEffect(() => {
     if (!courseId) return;
-    fetch(`/content/${courseId}/title.md`)
-      .then(r => (r.ok ? r.text() : courseId))
-      .then(t => setTitle(t.replace(/^#+\s*/, '').trim()))
-      .catch(() => setTitle(courseId));
+    fetchCourseFile(courseId, 'title.md')
+  .then(t => {
+    if (!t) return courseId;                    // nothing found anywhere
+    return t.replace(/^#+\s*/, '').trim();      // strip leading “# ”
+  })
+  .then(setTitle)
+  .catch(() => setTitle(courseId));
+
   }, [courseId]);
 
   /* fetch tab content whenever courseId or active changes */
   useEffect(() => {
     if (!courseId) return;
-    fetch(`/content/${courseId}/${active}.md`)
-      .then(r => (r.ok ? r.text() : '# Coming soon'))
-      .then(md => {
-        const heading = `<h2>${tabs.find(t => t.key === active).label}</h2>`;
-        setHtml(heading + marked.parse(md));
-      })
-      .catch(() => setHtml('<p>Content unavailable.</p>'));
+    fetchCourseFile(courseId, `${active}.md`)
+  .then(md => {
+    if (!md) md = '# Coming soon';
+    const heading = `<h2>${tabs.find(t => t.key === active).label}</h2>`;
+    setHtml(heading + marked.parse(md));
+  })
+  .catch(() => setHtml('<p>Content unavailable.</p>'));
+
   }, [courseId, active]);
 
   /* ────────── show gate first, if needed ────────── */
