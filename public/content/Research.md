@@ -30,7 +30,7 @@ Bloomsbury Academic Press, 2025
 
 *In Focus: Black Wall* (1959) by Louise Nevelson, ed. Alex Taylor, Tate Research Publication, 2016
 
-### “Sloppy Craft as Temporal Drag,” 
+### “Sloppy Craft as Temporal Drag” 
 
 with Elissa Auther, in *Sloppy Craft: Interdisciplinarity and the Crafts*, Bloomsbury Press, 2015
 
