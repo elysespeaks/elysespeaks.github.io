@@ -2,7 +2,7 @@
 
 ### Assignments  
 
-The course grade is based on papers, presentations, and participation.
+The course grades is based on papers, presentations, and participation.
 
 | Component | Weight |
 |-----------|--------|
@@ -19,13 +19,18 @@ Late papers lose **5 pts/day**. Incomplete drafts count as late.
 
 ### Letter-grade scale
 
-| Letter | Numeric |
-|--------|---------|
-| A | 94 + |
-| A- | 90–93 |
-| B+ | 87–89 |
-| … | … |
-| F | ≤ 59 |
+| Grade | Numeric range |
+|-------|---------------|
+| A   | 94 + |
+| A‑  | 90 – 93 |
+| B+  | 87 – 89 |
+| B   | 83 – 86 |
+| B‑  | 80 – 82 |
+| C+  | 77 – 79 |
+| C   | 73 – 76 |
+| C‑  | 70 – 72 |
+| D   | 60 – 69 |
+| F   | 59 and below |
 
 ---
 
