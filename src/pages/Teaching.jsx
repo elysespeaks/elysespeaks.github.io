@@ -32,7 +32,7 @@ export default function Teaching() {
       {/* ------------------------------------------------- */}
       <h3>2022-23</h3>
       <p>ARHI 30489: Art in Chicago (spring)</p>
-      <p>ARHI 43481: Slackers, Critics, and Makers (spring)</p>
+      <p><Link to="/courses/ARHI43406S24">ARHI 43481: Slackers, Critics, and Makers (spring)</Link></p>
       <p>ARHI 13182: Fine Arts University Seminar (fall)</p>
       <p>ARHI 30531: Art, Vision, & Difference (fall)</p>
 
