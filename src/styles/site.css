@@ -110,7 +110,7 @@ body.blue-course {
   th, td {
     border: 1px solid #ccc;
     padding: 0.45rem 0.6rem;
-    vertical-align: top;
+    vertical-align: middle;
   }
   thead {
     background: color-mix(in srgb, var(--color-accent) 15%, var(--color-bg));
