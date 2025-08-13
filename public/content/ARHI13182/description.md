@@ -7,8 +7,8 @@
 ### Office Hours  
 307 Decio  
 
-- Tuesdays 12:30 – 1:30 pm in person (email to confirm) 
-- Other times by Zoom — email espeaks@nd.edu
+- Tuesdays 12:30 – 1:30 pm in person - book appointments  [here] (https://calendar.app.google/TGUu2BpetLdraaVK8)
+- Other times by Zoom — email espeaks@nd.edu or book appointments here:
 
 ---
 
@@ -40,6 +40,6 @@ Attendance is required; after **two** absences a written excuse (or prior arrang
 
 ### Texts & Readings  
 
-All readings are supplied as PDFs (linked on the syllabus page). **Bring them to class.** Printed copies are preferred; tablets/laptops are acceptable if necessary. Page-ranges on the syllabus override the PDF’s length.
+All readings are supplied as PDFs (linked on the syllabus page). **Bring them to class in printed or digital form.** Page-ranges on the syllabus override the PDF’s length.
 
 The course site is your day-to-day guide: it’s a *live syllabus* that can evolve, so check it **daily** for updates.  
