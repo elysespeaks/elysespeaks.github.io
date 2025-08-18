@@ -4,7 +4,7 @@ Check back as this site will be updated throughout the semester.
 * [Contemporary art at the IMA – Indianapolis](http://www.imamuseum.org/collections/browse-collection/contemporary-art)
 * [Doris Salcedo at MCA Chicago](http://www2.mcachicago.org/exhibition/doris-salcedo/)
 * [Art21](http://www.art21.org/) – clips, interviews, images by artists we’ll study
-* 
+* [Yoko Ono: Music of the Mind - MCA (Oct-on)](https://visit.mcachicago.org/exhibitions/yoko-ono-music-of-the-mind/)
 * [Margaret Stratton – *Inventory of My Mother’s House*](http://www.margaretstratton.com/Portfolio.cfm?nK=12854&nL=0&nS=0#0)
 * [Damien Hirst – *From the Cradle to the Grave* (2000)](http://www.damienhirst.com/from-the-cradle-to-the-grave-1)
 * [Ree Morton at The Renaissance Society](http://archive.renaissancesociety.org/site/Exhibitions/Images.Ree-Morton-A-Retrospective-1971-1977.141.html)

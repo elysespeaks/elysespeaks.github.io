@@ -28,4 +28,6 @@
 
 - [How to do an Annotated Bibliography](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html)
 
+- [Modern and Contemporary art - online resources](https://sites.google.com/g.rit.edu/arthistoryresourcesonline/art-and-architecture-by-periodplacemediumculture/modern-and-contemporary-art?authuser=0)
+
   
