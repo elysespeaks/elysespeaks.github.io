@@ -5,8 +5,8 @@ The primary means of evaluation will be presentations and papers, but preparatio
 **Papers and other written assignments**  
 There are two kinds of writing assignments:
 
-* **Short paragraphs & expert days** – Nearly every class you will email (as a running Google Doc, *before* class) a two‑paragraph response to the readings:
-  * summarize the author’s main argument  
+* **Short paragraphs & expert days** – Nearly every class you will email me (as a running Google Doc with newest entry at top, *before* class) a two‑paragraph response to the readings:
+  * summarize the author’s main argument in your own words as the argument pertains to class and the topic for the day  
   * pose two follow‑up questions  
   These responses foster engagement and launch discussion.  
   *On your assigned “expert” days you will also give a brief visual presentation connecting key ideas to an artwork.*  
