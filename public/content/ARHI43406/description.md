@@ -40,8 +40,7 @@ After successfully completing this course you should be able to:
 ---
 
 ### Texts
-All readings, videos, and image PowerPoints are posted on the course website (find it via **www3.nd.edu/espeaks**).  
-Your NetID/password are required for access.
+All readings, videos, and image PowerPoints are posted on the course website.  
 
 If a link is broken or you have trouble accessing materials, let me know right away.
 
