@@ -2,7 +2,7 @@
 T/Th 9:30–10:45 am; 107 O'Shaughnessy  
 
 **Office Hours:**  
-* **In‑person:** Thu 12:30–1:30 pm (307 Decio) —book appointments  [here] (https://calendar.app.google/TGUu2BpetLdraaVK8) or email *espeaks@nd.edu* to book.  
+* **In‑person:** Thu 12:30–1:30 pm (307 Decio) —book appointments  [here](https://calendar.app.google/TGUu2BpetLdraaVK8) or email *espeaks@nd.edu* to book.  
 * **Zoom:** by appointment — [office‑hours link](https://notredame.zoom.us/my/espeaks).
 
 ### Topic
@@ -42,5 +42,5 @@ After successfully completing this course you should be able to:
 ### Texts
 All readings, videos, and image PowerPoints are posted on the course website.  
 
-If a link is broken or you have trouble accessing materials, let me know right away.
+If a link is broken or you have trouble accessing materials, please email me right away.
 
