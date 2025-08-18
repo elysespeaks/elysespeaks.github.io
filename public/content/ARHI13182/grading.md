@@ -4,15 +4,15 @@
 
 The course grades are based on papers, presentations, and participation.
 
-Short visual analysis assignments: five 1-2pp. assignments over the course of the semester. For each, you will be asked to answer a specific question in order to focus on one analytic skill and methodological approach to art history. These will undergo peer review, and then you will be asked to make revisions and submit the final version in for a grade. 
+Short visual analysis assignments: five 1-2pp. assignments over the course of the semester. For each, you will be asked to answer a specific question in order to focus on one analytic skill and methodological approach to art history. These will undergo peer review, and then you will be asked to make revisions and submit the final version in for a grade. Late papers lose **5 pts/day**. Incomplete drafts count as late.
 
 Final research paper: 8-9 pp. of text, plus endnotes, bibliography, and images. This paper will be based on a work of art, and will require independent research and thinking. You will be asked to give a presentation to the class on your research and draft, and a final version of the paper will be submitted during exam week. 
 
-Participation: participation in any seminar is an essential part of the class. Overall participation is very important in this seminar due to the important component of looking and discussing works of art on-site, and you’ll be expected to come to class each day prepared to share informed views about the readings and works that we will discuss.
+Participation: participation in any seminar is an essential part of the class. Overall participation is very important in this seminar due to the important component of looking and discussing works of art on-site, and you’ll be expected to come to class each day prepared to share informed views about the readings and works that we will discuss. This also means that you have to be present in class. More than 2 unexcused absences will result in a decrease in your overall grade by 5% each time. Five or more absences will result in an inability to pass the class.
 
-Semester presentations: students in groups of two will each give one short presentation throughout the semester. Details TBA. 
+Semester presentations: students in groups of two will each give one short presentation throughout the semester. Details TBA. Late presentations will be penalized by a point deduction.
 
-Final presentations-each student will give a 10-minute presentation on their final papers. These are ‘work-in-progress’ presentations and you will all provide feedback on each other’s topics. More info will be provided later in the semester.
+Final presentations-each student will give a 10-minute presentation on their final papers. These are ‘work-in-progress’ presentations and you will all provide feedback on each other’s topics. More info will be provided later in the semester. Late presentations will be penalized by a point deduction.
 
 | Components | Weight |
 |-----------|--------|
@@ -23,7 +23,7 @@ Final presentations-each student will give a 10-minute presentation on their fin
 | **Semester presentations** (pairs) | **7 %** |
 | **Final in-class presentation** (10 min) | **8 %** |
 
-Late papers lose **5 pts/day**. Incomplete drafts count as late.
+
 
 ---
 
