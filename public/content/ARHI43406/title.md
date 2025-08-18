@@ -1,1 +1,1 @@
-ARHI 43406: Topics in Contemporary Art
+ARHI 43406: Topics in Contemporary Art: Art and the Everyday
