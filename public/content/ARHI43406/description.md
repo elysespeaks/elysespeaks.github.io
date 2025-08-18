@@ -2,7 +2,7 @@
 T/Th 9:30–10:45 am  
 
 **Office Hours:**  
-* **In‑person:** Thu 12:30–1:30 pm (307 Decio) — please email *espeaks@nd.edu* to book.  
+* **In‑person:** Thu 12:30–1:30 pm (307 Decio) — please visit this link or email *espeaks@nd.edu* to book.  
 * **Zoom:** by appointment — [office‑hours link](https://notredame.zoom.us/my/espeaks).
 
 ### Topic
