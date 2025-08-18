@@ -1,13 +1,13 @@
 
 
 ### Schedule  
-- **Time**  Tuesday & Thursday 11:00 – 12:15 pm  
-- **Place**  106 O’Shaughnessy Hall (and occasionally the Raclin Murphy Museum)
+- **Time**:  Tuesday & Thursday 11:00 – 12:15 pm' 
+- **Place**:  107 O’Shaughnessy Hall (and occasionally the Raclin Murphy Museum)
 
 ### Office Hours  
 307 Decio  
 
-- Tuesdays 12:30 – 1:30 pm in person - book appointments  [here] (https://calendar.app.google/TGUu2BpetLdraaVK8)
+- Thursdays 12:30 – 1:30 pm in person - book appointments  [here] (https://calendar.app.google/TGUu2BpetLdraaVK8)
 - Other times by Zoom — email espeaks@nd.edu or book appointments here:
 
 ---
