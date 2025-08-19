@@ -30,4 +30,8 @@
 
 - [Modern and Contemporary art - online resources](https://sites.google.com/g.rit.edu/arthistoryresourcesonline/art-and-architecture-by-periodplacemediumculture/modern-and-contemporary-art?authuser=0)
 
+- [Masterpieces made slightly funnier](https://thatispricelessblog.com/)
+
+  
+  
   
