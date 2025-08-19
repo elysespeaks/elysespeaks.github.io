@@ -9,7 +9,7 @@ export default function Teaching() {
       {/* ------------------------------------------------- */}
       <h3>Fall 2025</h3>
       <p>
-        <Link to="/courses/ARHI13182">ARHI 13182: Art & Visual Culture</Link>
+        <Link to="/courses/ARHI13182">ARHI 13182: University Seminar</Link>
       </p>
       <p>
         <Link to="/courses/ARHI43406">ARHI 43406: Topics in Contemporary Art</Link>
