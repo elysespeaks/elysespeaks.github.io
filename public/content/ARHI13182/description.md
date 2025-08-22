@@ -7,8 +7,8 @@
 ### Office Hours  
 307 Decio  
 
-- Thursdays 12:30 – 1:30 pm in person - book appointments  [here](https://calendar.app.google/TGUu2BpetLdraaVK8)
-- Other times by Zoom — email espeaks@nd.edu or book appointments here:
+- Thursdays 12:30 – 1:30 pm in person - book appointments  [here](https://calendar.app.google/XTmx9s7oPJQEpXGU6)
+- Other times by Zoom — email espeaks@nd.edu or book appointments [here](https://calendar.app.google/phuixEgdk91Rwsyu7)
 
 ---
 
