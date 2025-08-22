@@ -4,7 +4,7 @@
 
 The course grades are based on papers, presentations, and participation.
 
-Short visual analysis assignments: five 1-2pp. assignments over the course of the semester. For each, you will be asked to answer a specific question in order to focus on one analytic skill and methodological approach to art history. These will undergo peer review, and then you will be asked to make revisions and submit the final version in for a grade. Late papers lose **5 pts/day**. Incomplete drafts count as late.
+Short visual analysis assignments: five 1-2pp. assignments over the course of the semester. For each, you will be asked to answer a specific question in order to focus on one analytic skill and methodological approach to art history. These will undergo peer review, and then you will be asked to make revisions and submit the final version in for a grade. Late papers lose **5 pts/day**. Incomplete drafts count as late. The lowest grade of the five assignments will be dropped at the end of the semester. 
 
 Final research paper: 8-9 pp. of text, plus endnotes, bibliography, and images. This paper will be based on a work of art, and will require independent research and thinking. You will be asked to give a presentation to the class on your research and draft, and a final version of the paper will be submitted during exam week. 
 
