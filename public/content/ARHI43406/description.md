@@ -2,8 +2,8 @@
 T/Th 9:30–10:45 am; 107 O'Shaughnessy  
 
 **Office Hours:**  
-* **In‑person:** Thu 12:30–1:30 pm (307 Decio) —book appointments  [here](https://calendar.app.google/TGUu2BpetLdraaVK8) or email *espeaks@nd.edu* to book.  
-* **Zoom:** by appointment — [office‑hours link](https://notredame.zoom.us/my/espeaks).
+* **In‑person:** Thu 12:30–1:30 pm (307 Decio) —book appointments  [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1PvxIYxQv16c1PGzJT3Zd1qXs9obRTQktNfSk1OHcXOV1IFEs9XpvTbtKs_ifP5HcftV3ocVxK) or email *espeaks@nd.edu* to book.  
+* **Zoom:** by appointment [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0YIxXZddMn34z7d9LmL-KHOyZBz1D_R_ncStOCOlVl6uWUFMR-TlkZx5Vz1WlajLRbaKXKbISn) — [Zoom link](https://notredame.zoom.us/my/espeaks).
 
 ### Topic
 This seminar on contemporary art explores *the everyday*—theoretical, material, and historical—within recent artistic practice.  
