@@ -1,8 +1,8 @@
 
 
 ### Schedule  
-- **Time**:  Tuesday & Thursday 11:00 – 12:15 pm' 
-- **Place**:  107 O’Shaughnessy Hall (and occasionally the Raclin Murphy Museum)
+- **Time**:  Tuesday & Thursday 11:00 – 12:15 pm
+- **Place**:  107 O’Shaughnessy Hall (and the Raclin Murphy Museum)
 
 ### Office Hours  
 307 Decio  
