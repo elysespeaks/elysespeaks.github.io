@@ -30,7 +30,7 @@ export default function Home() {
   <p></p>
     <p style={{ margin: 0 }}>
               <a href="mailto:espeaks@nd.edu">email</a><br />
-              <a href="addlink">CV</a>
+              <a href="/content/E_Speaks_CV-web.pdf" target="_blank" rel="noopener noreferrer">CV</a>
     </p>
   </main>
   

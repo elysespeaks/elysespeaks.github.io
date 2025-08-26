@@ -18,8 +18,10 @@ const tabs = [
 
 // Helper – first try /content/{courseID}/…, then fall back to /content/archive/{courseID}/…
 function fetchCourseFile(courseID, file) {
-  const primary  = `/content/${courseID}/${file}`;
-  const fallback = `/content/archive/${courseID}/${file}`;
+  // Add cache-busting query string using current timestamp
+  const cacheBuster = `cb=${Date.now()}`;
+  const primary  = `/content/${courseID}/${file}?${cacheBuster}`;
+  const fallback = `/content/archive/${courseID}/${file}?${cacheBuster}`;
 
   // fetch the file only if it really is Markdown (not the SPA HTML fallback)
   const getIfMarkdown = url =>
