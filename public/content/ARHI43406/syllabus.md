@@ -10,7 +10,7 @@
 | Th 9/11 | House Work and Art Work<br/><em>Expert: </em> | [Helen Molesworth, “House work and art work,” *October* (2000), all](https://drive.google.com/file/d/167KEUBed1DQgOrLaMVT0YisZqs1oj_QQ/view?usp=sharing)<br/>[Pat Mainardi, “The Politics of Housework” (1970)](http://www.feministezine.com/feminist/modern/The-Politics-of-Housework.html) | [House Work and Art Work images](PDFs/Images-21/43406-housework-artwork-mainardi.pptx) |
 | T 9/16 | Domestic everyday at the museum – Raclin Murphy day -TBD - Abakanowicz |  |  |
 | Th 9/18 | Domestic labors <br/><em>Expert:</em> | [Faith Wilding, “Monstrous Domesticity,” *M/E/A/N/I/N/G* (1995)](https://drive.google.com/file/d/1FFdV3hVag6BahsVba9dmpkY5bemuOqne/view?usp=sharing), all.<br/>[Rita Felski, “The Invention of Everyday Life,” *New Formations* (1999)](https://drive.google.com/file/d/1PIbSS7_1btLxhV7Nf8yha5qRvpcnJYEm/view?usp=sharing), all. | [Domestic labors 1 images](PDFs/Images-21/43406-feminism-mainardi-felski.pptx) |
-| T 9/23 | Everyday Movements - Performing the ordinary - Visiting lecture - Elise Archias | Archias on Rainer |  |
+| T 9/23 | Everyday Movements - Performing the ordinary - Visiting lecture - Elise Archias | [Elise Archias, "Hurray for People" *The Concrete Body,* excerpt, all.](https://drive.google.com/file/d/14BznK4ZCocm-i-ecXtgB3t4bzvKklvCd/view?usp=drive_link) <br>To watch before class: [Yvonne Rainer, Trio A]([https://www.youtube.com/watch?v=_vHqIMFDbQI](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_vHqIMFDbQI&source=gmail-imap&ust=1756497701000000&usg=AOvVaw145XbZbUlSYa2n6OTfFkmT)) |  |
 | Th 9/25 | Everyday Movements 2 - Itinerancy and Amateurism | [Volk, "Walkabout," AF (2008), all.](https://drive.google.com/file/d/1x-HQNGI_CEKWP9_sQz2OusXBmKeHgev_/view?usp=drive_link); <br>[Godfrey, "Politics/Poetics: The Work of Francis Alÿs," A Story of Deception, selections as marked.](https://drive.google.com/file/d/1EirFrYvOuJMBQh_SwZu1mrsd72IL6mop/view?usp=drive_link) |  |
 | T 9/30 | Homeplace – Feminism and Race<br/><em>Expert: </em> | [Saidiya Hartman, “The Belly of the World,” *Souls* (2016) pp. 166‑69](https://drive.google.com/file/d/1_sQiyGW1Dg6bWsteWcxkQW0bcgaqdngi/view?usp=sharing)<br/>[bell hooks, *homeplace*](https://drive.google.com/file/d/1xs_kAGHMhaFRQPSFQ9UbC2Gkl9XtW40V/view?usp=sharing)<br/>[Sarah Cowan, “To Touch Time: U.S. Black Feminist Modernist Sculpture in the 1970s and 1980s,” *Arts* (2024) pp. 5‑6, 11‑17](https://drive.google.com/file/d/1RqRQ21fCaYnvlV1H3U61TmjV6gInSWjT/view?usp=sharing) | [Feminism and race images](PDFs/Images-21/43406-24-feminism-and-race.pptx) |
 | Th 10/2 | Affect and Excess <br/><em>Expert: <em> | [Sara Ahmed, “Feminist Attachments,” *The Cultural Politics of Emotion* pp. 178‑89](https://drive.google.com/file/d/12btav8onPgpIzmUrnPHCM6ThhLTnHGcz/view?usp=sharing)<br/>Add:  Possibly: Widholm, A Work In Mourning: Doris Salcedo, MCA |  |
@@ -32,5 +32,5 @@
 | T 12/2 | Student presentations |  |  |
 | Th 12/4 | Student presentations |  |  |
 | T 12/9 | Conclusion |  |  |
-|  |  |  |  |
-|| **Final papers due Monday 12/15@ 10:30 a.m. by email (extensions require 5 days notice)** |  |  |
+| Break | **Final papers due Monday 12/15@ 10:30 a.m. by email (extensions require 5 days notice)** |  |  |
+||  |  |  |
