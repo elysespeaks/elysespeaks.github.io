@@ -31,8 +31,8 @@ Attendance is required; after **two** absences a written excuse (or prior arrang
 
 ### Goals  
 
-- Gain knowledge across the history of art  
-- Develop skills in critical writing and visual analysis  
+- Gain knowledge across the history of art
+- Develop skills in critical writing and visual analysis
 - Practice speaking about visual subjects in an academic setting  
 - Engage in lively, respectful seminar dialogue  
 
