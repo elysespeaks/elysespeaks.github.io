@@ -18,7 +18,7 @@
 | section | **Part three: Natural and Cultural Ecologies** |  |  |
 | Th 10/9 | Art, Ecology and Politics<br/><em>Expert:</em> </em>Alec | [Lovatt, "Only Connect: Art, Feminism, and Ecology in the 1980," all](https://drive.google.com/file/d/148b_AzbO009iE4RIu8hcf6Kp7PmPmGpW/view?usp=drive_link); <br>[Blocker, "Earth," *Where is Ana Mendieta* (Duke), selections tbd.](https://drive.google.com/file/d/1VTEFCWOHO-b4wOQ9qmQVHvQaitep8S0X/view?usp=drive_link) |  |
 | T 10/14 | Landscape into Eco-Art and the Politics of Critical Art<br>*Expert:* </em>James | [Gablik, The Ecological Imperative, A New Cultural Coding (all)](); Cheetham, "Landscape into Eco-Art"; |  |
-| Th 10/16 | TBD - Documentary on Burtynsky or Christo | In‑class screenings and selected readings |  |
+| Th 10/16 | Art, Land, Ecology - Edward Burtynsky | In‑class screenings and selected readings |  |
 |Break| **Fall Break** |  |  |
 | T 10/28 | Ecologies of Art - poetics or activism?<br>*Expert:* TBD | [Anker, "Seeing Pink:The Eco-Art of Simon Starling," Visual Arts Practice, 2008, all](https://drive.google.com/file/d/1zoB7v9BG4ACwMe2W5g3zxeSCupbXbJ01/view?usp=drive_link); <br>[Ed Wall, "Constellations vs. Hero: A conversation with Mary Miss," Journal of the British Academy, all.]() |  |
 | Th 10/30 | Nature as Subject<em> | Readings from Hassinger files - will be discussed in class. |  |
