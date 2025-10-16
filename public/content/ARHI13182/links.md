@@ -2,7 +2,9 @@
 
 *(This page will grow as the semester progresses.)*
 
-- **Art-history research:** [ND Quicksearch – Art History](http://xerxes.library.nd.edu/quicksearch/databases/subject/art-art-history-design)  
+- **Art-history research - library:** [ND Quicksearch – Art History](https://www.library.nd.edu/art-art-history-design/)  
+
+- [Hesburgh Library - general searech](https://www.library.nd.edu/)
 
 - **Raclin Murphy Museum opportunities:** [PhotoFutures & more](http://sniteartmuseum.nd.edu/education-programs-resources/university/students/)  
 
