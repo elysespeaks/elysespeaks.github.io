@@ -20,7 +20,7 @@
 | T 10/14 | Annotated Bibliographies day | [Annotated bibliography assignment](https://drive.google.com/file/d/1_VrrZ3Yxgy3JS6qbolhSVTMMv7AOQ7Op/view?usp=drive_link)<break>Try to bring paragraph on paper topic and two sources |  |
 | Th 10/16 | Art, Land, Ecology - Edward Burtynsky | In‑class screenings and selected readings |  |
 |Break| **Fall Break** |  |  |
-| T 10/28 | Landscape into Eco-Art and the Politics of Critical Art<br/>*Expert:* </em>James | [Gablik, The Ecological Imperative, A New Cultural Coding (all but focus on arguments)](https://drive.google.com/file/d/1j_lbVqdEePeYhvHerv03YtuiJ3PrhyaC/view?usp=drive_link); [Cheetham, "Landscape into Eco-Art"](https://drive.google.com/file/d/14vDPWKADd-8fj8uYmlF5YQmJoL1fUUKj/view?usp=drive_link) |  |
+| T 10/28 | Landscape into Eco-Art and the Politics of Critical Art<br/>*Expert:* </em>James | [Gablik, The Ecological Imperative, A New Cultural Coding (all but focus on arguments)](https://drive.google.com/file/d/1j_lbVqdEePeYhvHerv03YtuiJ3PrhyaC/view?usp=drive_link); [Cheetham, "Landscape into Eco-Art"](https://drive.google.com/file/d/14vDPWKADd-8fj8uYmlF5YQmJoL1fUUKj/view?usp=drive_link), 1-3, then skim until 9, read 9-18. |  |
 | Th 10/30 | Ecologies of Art - poetics or activism? | [Anker, "Seeing Pink:The Eco-Art of Simon Starling," Visual Arts Practice, 2008, all](https://drive.google.com/file/d/1zoB7v9BG4ACwMe2W5g3zxeSCupbXbJ01/view?usp=drive_link); <br/>[Ed Wall, "Constellations vs. Hero: A conversation with Mary Miss," Journal of the British Academy, all.]() |  |
 | T 11/4 | Nature as Subject<em> | No responses due <br>Readings from Hassinger files - will be discussed before class. |  |
 | Th 11/6 | Class onsite – Raclin Murphy Museum | No responses due |  |
