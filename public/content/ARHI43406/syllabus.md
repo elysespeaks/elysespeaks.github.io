@@ -28,8 +28,8 @@
 | Th 11/13 | Informal Cities 1 – Cruzvillegas<br><em>Expert: </em>Alejandro<br>[Annotated Bibliographies due  @ 10 p.m.](https://drive.google.com/file/d/1_VrrZ3Yxgy3JS6qbolhSVTMMv7AOQ7Op/view?usp=drive_link) | [Mark Godfrey, “Instability and Fragmentation: Improvisation and Autoconstruccion,” *Abraham Cruzvillegas,* all](https://drive.google.com/file/d/1zEqC9pBHsDOa4l0uZplAna7mO4sCX3mU/view?usp=sharing)<br/>[Haegue Yang, “Interview with Cruzvillegas,” *BOMB* 124 (2013)](https://drive.google.com/file/d/1ipwVeWH-cPUe3xUFXbMGriMvAAT3i_An/view?usp=sharing), all. | [Informal Cities 1 images](PDFs/Images-21/43406-24-cruzvillegas-informal-cities-1.pptx) |
 | T 11/18 | Informal Cities 2 – Plumbing, Walls, and Daily Infrastructure | [“Slums Do Stink: Artists, Bricolage, and our Need for Doses of ‘Real Life,’” *Art Journal* (2008) pp. 83‑99](https://drive.google.com/file/d/1vWPmPBKfs3a3qtCDDZ8UTfiwhor54AG2/view?usp=sharing)<br/>[Khan, “Marjetica Potrc’s Shanties to Go,” *Art Papers*](https://drive.google.com/file/d/1fuR-NnusYwPnM8TQNzxqBRR8JUSoyy0V/view?usp=sharing) | [Informal Cities 2 images]() |
 | Th 11/20 | Couscous, Dust and Vinyl | [Dango, “Worklines: the art of Igshaan Adams,” *Artforum* (2022) pp. begin‑207](https://drive.google.com/file/d/1PdJxemUleCncM77qhXdH927d80E3_iWD/view?usp=sharing)<br/>[Escalona, “Couscous‑Corbusier: Excavating the Everyday in Kader Attia’s *Untitled (Ghardiaïa)*,”](https://drive.google.com/file/d/1bmCVj8m3fx3xik_oDd2fQ6FR_dv5IJ4H/view?usp=sharing)<br/>[Diawara, “All the Difference in the World,” *Artforum* (2014)](https://drive.google.com/file/d/1szxZyvD2shg0J2mpEcgsgxkYSCToh0ze/view?usp=sharing) | [Couscous, Dust and Vinyl images]() |
-| T 11/25 | Student presentations | Abby, Meghan, Rocío |  |
+| T 11/25 | Student presentations | Abby, Jack, Claire |  |
 | T 12/2 | Student presentations | Gabby, Alejandro, James |  |
-| Th 12/4 | Student presentations | Jack, Bright, Alec |  |
-| T 12/9 | Conclusion | Grace, Sonya, Claire |  |
+| Th 12/4 | Student presentations | Meghan, Bright, Alec |  |
+| T 12/9 | Conclusion | Grace, Sonya, Rocío |  |
 | Section | **Final papers due Monday 12/15@ 10:30 a.m. by email (extensions require 5 days notice)** |  |  |
