@@ -32,4 +32,4 @@
 | T 12/2 | Student presentations | Gabby, Alejandro, James |  |
 | Th 12/4 | Student presentations | Meghan, Bright, Alec |  |
 | T 12/9 | Conclusion | Grace, Sonya, Rocío |  |
-| Section | **Final papers due Monday 12/15@ 10:30 a.m. by email (extensions require 5 days notice)** |  |  |
+| Section | **Final papers due Monday 12/15@ 10:30 a.m. by email; rough drafts due 12/9 for full comments (extensions require 5 days notice)** |  |  |
