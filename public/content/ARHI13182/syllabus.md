@@ -29,5 +29,4 @@
 | **T 12/2** | Presentations | Arianna<br/>Claire<br/>Mariana<br/>Jake |  |
 | **Th 12/4** | Presentations | Julia<br/>John<br/>Joe<br/>Michael |  |
 | **T 12/9** | Presentations | Vivian<br/>Will<br/>Franny<br/>Evan |  |
-| **Th 12/11** | Course conclusion |  |  |
 | **Final paper** | [Final paper assignment](https://drive.google.com/file/d/165uDjR6feQLwgQi8kD8dGFEGTQSHM6Ak/view?usp=sharing) - due 10:00 am, Dec 15 (email) | Extensions granted before 12/10. Include your name in the `.docx` title and note whether you’d like comments. | |
