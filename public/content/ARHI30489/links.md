@@ -1,17 +1,27 @@
-Check back as this site will be updated throughout the semester.
+Check back as this site will be updated throughout the semester. This list pertains to topics that may be of interest both for class and for your final papers.
 
-* [ARHI43481 Youtube site](https://www.youtube.com/playlist?list=PLJFm6Y6_8unjW9EXlYQYzTzsxgkALXAXx)
-* [Contemporary art at the IMA – Indianapolis](http://www.imamuseum.org/collections/browse-collection/contemporary-art)
-* [Doris Salcedo at MCA Chicago](http://www2.mcachicago.org/exhibition/doris-salcedo/)
-* [Art21](http://www.art21.org/) – clips, interviews, images by artists we’ll study
-* [Yoko Ono: Music of the Mind - MCA (Oct-on)](https://visit.mcachicago.org/exhibitions/yoko-ono-music-of-the-mind/)
-* [Margaret Stratton – *Inventory of My Mother’s House*](http://www.margaretstratton.com/Portfolio.cfm?nK=12854&nL=0&nS=0#0)
-* [Damien Hirst – *From the Cradle to the Grave* (2000)](http://www.damienhirst.com/from-the-cradle-to-the-grave-1)
-* [Ree Morton at The Renaissance Society](http://archive.renaissancesociety.org/site/Exhibitions/Images.Ree-Morton-A-Retrospective-1971-1977.141.html)
-* [Ree Morton at The New Museum](http://archive.newmuseum.org/index.php/Detail/Entity/Show/entity_id/1350)
-* [Louise Bourgeois site](http://louisebourgeois.yolasite.com/) – student‑made, includes videos & sources
-* [Louise Bourgeois on ART21](http://www.art21.org/artists/louise-bourgeois)
-* [The artist as collector – Sotheby’s article](http://www.sothebys.com/en/news-video/blogs/all-blogs/sothebys-at-auction/2013/06/artists-who-collect-damien-hirst-george-condo.html)
-* [*Curious* – artist as collector (Guardian)](http://www.theguardian.com/artanddesign/2015/feb/06/curios-and-curiouser-weird-wonderful-stuff-artists-collect)
-* [Mark Dion – *The Library for the Birds of New York* (2016)](http://www.blouinartinfo.com/news/story/1364698/video-mark-dions-wondrous-collections-at-tanya-bonakdar)
-
+- [Notre Dame Writing Center - recommended for drafts of your papers.](https://writing.nd.edu/writing-center/)
+- [Common theoretical terms defined reasonably well](http://www.english.iup.edu/mhayward/terms.htm)
+- [Some art history terms also defined reasonably well](http://www.essentialvermeer.com/glossary/glossary_a_c.html)
+- [One more art history glossary](http://arthistory.about.com/od/glossary/l/bl_Art-Glossary.htm)
+- [Art History - the Key Concepts- Jonathan Harris](../../2013-14/ALHN13901%20-%20Copy/PDFs/readings/Art_History__The_Key_Concepts__Routledge_Key_Guides_.pdf) (a pdf. with key terms glossed fairly well with add'l biblio) - v.g. resource
+- [Art Institute of Chicago](http://www.artic.edu/aic/collections/contemporary)
+- [Museum of Contemporary Art, Chicago](http://www.mcachicago.org/)
+- [ARHI30489 Youtube playlist](http://www.youtube.com/playlist?list=PL52D25343CF6BAE46)
+- [van Gogh and Gauguin - the Studio of the South](http://www.artic.edu/aic/exhibitions/vangogh/slide_intro.html)
+- [Seurat and the making of "La Grande Jatte"](http://www.artic.edu/aic/exhibitions/seurat/seurat_themes.html)
+- ["Making Sense of Modern Art" at the SFMoMA](http://www.sfmoma.org/explore/multimedia/interactive_features/56)
+- [Wikipainting - Tag: Brittany](http://www.wikipaintings.org/de/Tag/brittany)
+- [Matisse and Picasso](https://www.moma.org/calendar/exhibitions/143)
+- [Matisse: Radical Invention - Bathers interactive](http://www.artic.edu/aic/exhibitions/matisse/splash.html)
+- [Mondrian discussed at the SFMoMA](http://www.sfmoma.org/explore/collection/artists/862)
+- [Stieglitz, Camera Work (online)](http://catalog.hathitrust.org/Record/003959332)
+- [FSA Photography at LOC](http://www.loc.gov/pictures/collection/fsa/)
+- [FSA Photography website - "Living on the farm"](http://www.livinghistoryfarm.org/farminginthe30s/water_14.html)
+- [Abstract Expressionism in New York - MoMA (has useful videos, etc.)](http://www.moma.org/interactives/exhibitions/2010/abexny/)
+- [Art Index Retrospective (useful for looking up reviews and other articles about your art works)](http://web.ebscohost.com.proxy.library.nd.edu/ehost/search/advanced?sid=5496ce07-f509-4843-b440-bc995bd9f1e9%40sessionmgr113&vid=1&hid=112)
+- [ARTstor (good source for images)](http://www.artstor.org.proxy.library.nd.edu/index.shtml)
+- [Jasper Johns - Meaning what you See - Orton and Harrison](../../2015-16/ALHN13901%20-%20Copy/13901-PDFs/readings/Orton-Harrison-Johns-meaning.pdf)
+- [About Andy (Warhol Museum info)](http://www.warhol.org/collection/aboutandy/)
+- [Regarding Warhol (exhibition at Met)](http://www.metmuseum.org/exhibitions/listings/2012/regarding-warhol/about-the-exhibition)
+- [Feminism and art (The Art History Archive - good overview)](http://www.arthistoryarchive.com/arthistory/feminist/)
