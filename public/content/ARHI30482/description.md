@@ -2,7 +2,7 @@
 
 Class: Tuesday and Thursday: 9:30-10:45 a.m.
 
-Office hours: Email or [sign up here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxodV81MDI0d0JUfGRlZmF1bHR8MWFiMDU5OWFjMmQ1YjIxYTI2MjEwYjY0YzZjZjI5MDM).   email: **espeaks@nd.edu**
+Office hours: [In-person](https://calendar.app.google/Cpu2nGXopbSEmT4L7) and [by zoom](https://calendar.app.google/KhwX2G8YuRPMrwKZA). Email me for other times: **espeaks@nd.edu**
 
 [Office hours zoom link here](https://notredame.zoom.us/my/espeaks).
 
