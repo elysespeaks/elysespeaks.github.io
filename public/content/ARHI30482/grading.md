@@ -1,6 +1,6 @@
 Requirements
 
-- **Exams**: exam 1 – (25%); exam 2 (not comprehensive) – December 7 (35%). No late exams will be given unless tied to an excused absence (which requires a doctor's note or university email).
+- **Exams**: exam 1 – (25%); exam 2 (not comprehensive) – (30%). No late exams will be given unless tied to an excused absence (which requires a doctor's note or university email).
 - **Preparation, participation, and attendance**: both are mandatory and worth a large percentage of your final grade (20%); two excused absences are permitted, after which a 5% deduction will occur from participation grade for each absence.
 
   > A note on preparation and attendance: Coming to class is a good start on the road to good participation, but preparation (i.e., reading) and informed verbal participation are necessary for achieving success in the course. You will need to read and to talk in order to be seen as an excellent participant in the course.
@@ -8,7 +8,8 @@ Requirements
   > When you contribute to class discussion, we all benefit from questions and comments that are informed and meaningful. This makes the class much more interesting for everyone! Because of this, you will be expected not only to contribute to class, but to contribute in ways that make it clear that you are familiar with, and fully engaged with the course materials. However, *there are no stupid questions in this class*! Often the most basic questions and observations are the most interesting.
 
 - **Presentation assignment**: Each student, as part of a group of 2, will be in charge of one short (10 min.) presentation on an artist (worth 10%). These will be staggered throughout the semester, and will be graded as they are presented. No late presentations will be accepted. If a conflict arises with your date, you must discuss a change in date in advance.
-- **Writing assignments**: You will be asked to take notes on all student presentations throughout the semester (you can miss up to one). No late entries will be accepted. One assignment that constructs a developed response on a presentations will be required. These are worth approx 10% of your grade (graded together with the presentation the sum will be worth 20%). Due Dec. 7. Instructions to follow.
+- **Writing assignments**: You will be asked to take notes on all student presentations throughout the semester (you can miss up to one unless you have an excused absence). No late entries will be accepted. These are worth approx 5% of your grade. Instructions to follow.
+- A second short writing assignment (2 pp.) on a work of art on campus will be discussed during the semester and due after spring break. Worth 15%
 - Resources are available for accessibility support. Additionally, Care and Wellness consultants can provide support and resources to students who are experiencing stressful or difficult situations that may be interfering with academic progress. For both, [visit this site](https://supportandcare.nd.edu/for-students/current-students/).
 
 *All assignments, exams, and papers are subject to the academic honor code. Generative artificial intelligence (AI) programs, such as ChatGPT, may not be used for any work or assignments required in this course. The use of generative AI programs defeats the writing requirements and critical thinking skills that are vital to achieving our learning outcomes. Submission of partial or complete work from generative AI programs is not permitted and will be treated as plagiarism as defined within the academic honor code.*
