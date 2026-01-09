@@ -1,14 +1,14 @@
 ### Schedule
 
-T/Th 9:30-10:45 107 O'Shag
+T/Th 11:00-12:15
 
-Office hours: Email me or [sign up here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxodV81MDI0d0JUfGRlZmF1bHR8MWFiMDU5OWFjMmQ1YjIxYTI2MjEwYjY0YzZjZjI5MDM) to make a zoom or in-person appointment due to Decio construction @ T 1:00-2:00 and Th 1-2 (and at other times as well)
+Office hours: Th 12:30-1:30. Email me or [sign up here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxodV81MDI0d0JUfGRlZmF1bHR8MWFiMDU5OWFjMmQ1YjIxYTI2MjEwYjY0YzZjZjI5MDM) to make a zoom or in-person appointment at this time or another.   
 
 [My personal Zoom link for appointments here.](https://notredame.zoom.us/j/3345598856)
 
 ### Topic
 
-This writing-intensive course will take as its starting point nearby art collections and exhibitions in Chicago and the surrounding areas. This semester we will look primarily at paintings, sculptures, and installations at the Art Institute of Chicago. Drawing heavily on its strong holdings in modern and contemporary European and American art, each class session will be devoted to the careful research and analysis of one or two objects in the collection. We will read art historical texts that contextualize each work, allowing us to practice engagement at the visual, critical, and art historical levels. We will focus on looking at and writing on visual subjects, so discussion, writing, and participation will be essential components of the course. Some of the artists on whom we will focus include Monet, Cassatt, Matisse, Mondrian, O'Keeffe, Pollock, Hesse, and Warhol. At least one trip to Chicago will be a required part of the course.
+This writing-intensive course will take as its starting point nearby art collections and exhibitions in Chicago and the surrounding areas. This semester we will look primarily at paintings, sculptures, and installations at the Art Institute of Chicago. Drawing heavily on its strong holdings in modern and contemporary European and American art, each class session will be devoted to the careful research and analysis of one or two objects in the collection. We will read art historical texts that contextualize each work, allowing us to practice engagement at the visual, critical, and art historical levels. We will focus on looking at and writing on visual subjects, so discussion, writing, and participation will be essential components of the course. Some of the artists on whom we will focus include Monet, Cassatt, Matisse, Mondrian, O'Keeffe, Pollock, Varo, Hesse, and Warhol. At least one trip to Chicago will be a required part of the course.
 
 ### Format
 
@@ -30,4 +30,4 @@ All readings will be made available by PDF, and can be downloaded from the sylla
 
 ### Field trips
 
-There will be one class trip to Chicago, where we will visit the Art Institute to take a tour of the 19th and 20th-century collections. This AIC visit is a required trip and a paper will be based on a work viewed there. You will also be expected to visit the Art Institute at least one other time on your own and provide documentation of that trip; we will discuss these requirements at our first meeting.
+There will be one class trip to Chicago, where we will visit the Art Institute to take a tour of the 19th, 20th, and 21st-century collections. This AIC visit is a required trip and a paper will be based on a work viewed there. You will also be expected to visit the Art Institute at least one other time on your own and provide documentation of that trip; we will discuss these requirements at our first meeting.
