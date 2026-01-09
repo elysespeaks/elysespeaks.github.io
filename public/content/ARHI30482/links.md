@@ -22,11 +22,6 @@ Check back as this site will be updated throughout the semester.
 - [Doris Salcedo on *Shibboleth*](http://www.tate.org.uk/context-comment/video/tateshots-doris-salcedo)
 - [Liza Lou interview at White Cube](http://whitecube.com/channel/in_the_gallery_past/liza_lou_bermondsey_2014/)
 - [El Anatsui - Gawu exhibition site](http://africa.si.edu/exhibits/gawu/index.html)
-- [Martin Puryear at MoMA](http://www.moma.org/interactives/exhibitions/2007/martinpuryear/flash.html)
-
-Extra Puryear readings
-
-> [Elizabeth Reede, "Jogs and Switchbacks," Martin Puryear.](../../2018-19/ARHI30482%20-%20Copy/30482-PDFs/30482-readings/Reede-puryear-30482.pdf)
 
 - [Doris Salcedo exhibition at the MCA](http://www3.mcachicago.org/2015/salcedo/)
 - [Salcedo on *Plegaria Muda* (video)](http://whitecube.com/channel/in_the_museum/doris_salcedo_on_plegaria_muda_2011/)
@@ -34,7 +29,6 @@ Extra Puryear readings
 
 Other artists and links:
 
-- [Carrie Mae Weems](http://carriemaeweems.net/index.html) - home page
 - [William Kentridge - Anything is Possible](http://www.art21.org/anythingispossible/video/full-feature-william-kentridge-anything-is-possible/) (PBS documentary)
 - [Art, China and Censorship - Hirshhorn Museum](http://hirshhorn.si.edu/collection/pbs-newshour-art-china-and-censorship-according-to-ai-weiwei/#collection=pbs-newshour-art-china-and-censorship-according-to-ai-weiwei)
 - ["Teachers reframe graffiti as great art" - HuffPo](http://www.huffingtonpost.com/2013/09/23/teachers-graffiti-artwork_n_3975729.html)
