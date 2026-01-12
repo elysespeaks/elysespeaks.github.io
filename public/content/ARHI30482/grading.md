@@ -1,7 +1,7 @@
 Requirements
 
 - **Exams**: exam 1 – (20%); exam 2 (not comprehensive) – (30%). No late exams will be given unless tied to an excused absence (which requires a doctor's note or university email).
-- **Preparation, participation, pop quizzes and attendance**: both are mandatory and worth a large percentage of your final grade (20%); two excused absences are permitted, after which a 5% deduction will occur from participation grade for each absence.
+- **Preparation, participation, pop quizzes and attendance**: both are mandatory and worth a large percentage of your final grade (20%); two excused absences are permitted, after which a 5% deduction will occur from participation grade for each absence. More than five absences of any kind during the semester will likely resunt in an inability to complete the course for credit. 
 
   > A note on preparation and attendance: Coming to class is a good start on the road to good participation, but preparation (i.e., reading) and informed verbal participation are necessary for achieving success in the course. You will need to read and to talk in order to be seen as an excellent participant. Pop quizzes, given randomly throughout the semester, will be offered as a way to test that you are reading and engaging with course materials.
   >
