@@ -3,7 +3,7 @@
 Check back as this site will be updated throughout the semester.
 
 - [30482 Youtube site](https://www.youtube.com/playlist?list=PLKHFxfLDiZJ5pkpOfgXCsOLYQNi-aTDi-)
-- [ND Quicksearch for art history](http://xerxes.library.nd.edu/quicksearch/databases/subject/art-art-history-design) (useful for research, finding images, etc.)
+- [ND Quicksearch for art history](https://www.library.nd.edu/art-art-history-design/) (useful for research, finding images, etc.)
 - [art21 Homepage](http://www.pbs.org/art21/) (images, clips, interviews, etc. with many of the artists we'll study)
 - [Museum of Contemporary Art, Chicago](http://www.mcachicago.org/)
 - [Art Institute of Chicago](http://www.artic.edu/)
