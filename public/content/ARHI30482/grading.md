@@ -1,9 +1,9 @@
 Requirements
 
-- **Exams**: exam 1 – (25%); exam 2 (not comprehensive) – (30%). No late exams will be given unless tied to an excused absence (which requires a doctor's note or university email).
+- **Exams**: exam 1 – (20%); exam 2 (not comprehensive) – (30%). No late exams will be given unless tied to an excused absence (which requires a doctor's note or university email).
 - **Preparation, participation, pop quizzes and attendance**: both are mandatory and worth a large percentage of your final grade (20%); two excused absences are permitted, after which a 5% deduction will occur from participation grade for each absence.
 
-  > A note on preparation and attendance: Coming to class is a good start on the road to good participation, but preparation (i.e., reading) and informed verbal participation are necessary for achieving success in the course. You will need to read and to talk in order to be seen as an excellent participant.
+  > A note on preparation and attendance: Coming to class is a good start on the road to good participation, but preparation (i.e., reading) and informed verbal participation are necessary for achieving success in the course. You will need to read and to talk in order to be seen as an excellent participant. Pop quizzes, given randomly throughout the semester, will be offered as a way to test that you are reading and engaging with course materials.
   >
   > When you contribute to class discussion, we all benefit from questions and comments that are informed and meaningful. This makes the class much more interesting for everyone! Because of this, you will be expected not only to contribute to class, but to contribute in ways that make it clear that you are familiar with, and fully engaged with the course materials and readings. However, *there are no stupid questions in this class*! Often the most basic questions and observations are the most interesting. To this end, we will have pop quizzes throughout the semester on the readings and these will factor into your participation grade. 
 
