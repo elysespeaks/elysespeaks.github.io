@@ -2,7 +2,7 @@
 
 T/Th 11:00-12:15
 
-Office hours: Th 12:30-1:30. Email me or sign up to make a [zoom](https://calendar.app.google/moQbD815YzqQz9bD7) or [in-person](https://calendar.app.google/wGJZ8YDT2kRnbqfX8) appointment at this time or another.   
+Office hours: Th 12:30-1:30. Email me or sign up to make a [zoom (here)](https://calendar.app.google/moQbD815YzqQz9bD7) or [in-person (here)](https://calendar.app.google/wGJZ8YDT2kRnbqfX8) appointment at this time or another.   
 
 [My personal Zoom link for appointments here.](https://notredame.zoom.us/j/3345598856)
 
