@@ -18,4 +18,4 @@ Check back as this site will be updated throughout the semester. This list perta
 - [ARTstor (good source for images)](http://www.artstor.org.proxy.library.nd.edu/index.shtml)
 - [Jasper Johns - close looking - Jason Farago](https://www.nytimes.com/interactive/2022/01/16/arts/design/jasper-johns-memory-of-my-feelings.html)
 - [Regarding Warhol (exhibition at Met)](https://www.metmuseum.org/exhibitions/listings/2012/regarding-warhol/about-the-exhibition)
-- [Feminism and art (The Art History Archive - good overview](http://www.arthistoryarchive.com/arthistory/feminist/)
+- [Feminism and art (The Art History Archive - good overview)](http://www.arthistoryarchive.com/arthistory/feminist/)
