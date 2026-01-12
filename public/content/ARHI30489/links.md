@@ -1,7 +1,6 @@
 Check back as this site will be updated throughout the semester. This list pertains to topics that may be of interest both for class and for your final papers.
 
 - [Notre Dame Writing Center - recommended for drafts of your papers.](https://writing.nd.edu/writing-center/)
-- [Common theoretical terms defined reasonably well](http://www.english.iup.edu/mhayward/terms.htm)
 - [Some art history terms also defined reasonably well](http://www.essentialvermeer.com/glossary/glossary_a_c.html)
 - [One more art history glossary](http://arthistory.about.com/od/glossary/l/bl_Art-Glossary.htm)
 - [Art History - the Key Concepts- Jonathan Harris](../../2013-14/ALHN13901%20-%20Copy/PDFs/readings/Art_History__The_Key_Concepts__Routledge_Key_Guides_.pdf) (a pdf. with key terms glossed fairly well with add'l biblio) - v.g. resource
