@@ -30,8 +30,8 @@
 | T 4/7 | Afrofuturism and contemporary abstraction - Alma Thomas<br>Expert: Lisa<br>Key work: [Thomas, *Starry Night and the Astronauts,* 1972](https://www.artic.edu/artworks/129884/starry-night-and-the-astronauts) | [Aruna D'Souza, "What filters through the spaces between," *Alma W. Thomas: Everything is beautiful*, 2021, all.](https://drive.google.com/file/d/1DjfRkUrmvO8f_Cq1InTIunXMekCEDyKc/view?usp=drive_link); [Ian Berry and Lauren Haynes, "Alma Thomas" and "Painting Space," *Alma Thomas* (Studio Museum), only 101-105.](https://drive.google.com/file/d/1cqQIsqsCLYIUUXVBsdywd2ixkRTx0Cy8/view?usp=drive_link) | [Afrofuturism and Thomas](images/22-19-thomas-abstraction.pptx) |
 | Th 4/9 | Postmodernism, Portraiture, and Abstraction - Mike Cloud<br/>Key work: Mike Cloud, *F of J*, 2016 | To complete: [Mike Cloud Bomb Interview with Erica Hunt (2026)](https://drive.google.com/file/d/18lmY3pMFyMNZ79WTTqrwPBR8BNo3yfbH/view?usp=drive_link); ["Interview," Platform, all.](https://www.platformart.com/features/mike-cloud-artist-interview?srsltid=AfmBOoom2FXZ_DpfzQ79xIjLTRAepw7kBT2jRO7sHNsLy2zHT58wH5y-) |  |
 | T 4/14 | Conclusion | TBD |  |
-| Th 4/16 | Presentations<br>[Final paper and presentation assignment](handouts/30489-final%20paper%20assignment.docx) |  |  |
+| Th 4/16 | Presentations<br>[Final paper and presentation assignment and guidelines](https://drive.google.com/file/d/1dUk_OYsUiLV9A-vbCG52CHT2bCW01i3C/view?usp=drive_link) |  |  |
 | T 4/21 | Presentations |  |  |
 | Th 4/23 | Presentations |  |  |
 | T 4/28 | Presentations |  |  |
-|  | Final papers due Monday, May 4 at 8:00 a.m. by email (extensions granted if requested one week in advance). Please put your name in the title and send as an attachment and specify if you would like to receive comments. Have a nice summer! |  |  |
+|  | Final papers due Monday, May 4 at 10:30 a.m. by email (extensions granted if requested one week in advance). Please put your name in the title and send as an attachment and specify if you would like to receive comments. Have a nice summer! |  |  |
