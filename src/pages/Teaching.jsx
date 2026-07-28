@@ -8,22 +8,25 @@ export default function Teaching() {
 
       <h3>Fall 2026</h3>
        <p>
-        <Link to="/courses/ARHI30482">ARHI 30482: Art Now</Link>
+        <Link to="/courses/ARHI13182">ARHI 13182: University Seminar</Link>
+
+        <p><Link to="/courses/ARHI43481">ARHI 43481: Slackers, Critics, and Makers</Link></p>
+
       </p>
 
        {/* ------------------------------------------------- */}
       <h3>2025-26</h3>
       <p>
-        <Link to="/courses/ARHI30482S26">ARHI 30482: Art Now</Link>
+        <Link to="/courses/ARHI30482S26">ARHI 30482: Art Now (spring)</Link>
       </p>
       <p>
-        <Link to="/courses/ARHI30489S26">ARHI 30489: Art in Chicago</Link>
+        <Link to="/courses/ARHI30489S26">ARHI 30489: Art in Chicago (spring)</Link>
       </p>
       <p>
-        <Link to="/courses/ARHI13182F25">ARHI 13182: University Seminar</Link>
+        <Link to="/courses/ARHI13182F25">ARHI 13182: University Seminar (fall)</Link>
       </p>
       <p>
-        <Link to="/courses/ARHI43406F25">ARHI 43406: Topics in Contemporary Art</Link>
+        <Link to="/courses/ARHI43406F25">ARHI 43406: Topics in Contemporary Art (fall)</Link>
       </p>
 
       {/* ------------------------------------------------- */}
