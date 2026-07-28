@@ -6,21 +6,24 @@ export default function Teaching() {
     <main style={{ padding: "1rem", marginLeft: "1rem", lineHeight: "1.1" }}>
       <h1>Teaching</h1>
 
-       {/* ------------------------------------------------- */}
-      <h3>Spring 2026</h3>
-      <p>
+      <h3>Fall 2026</h3>
+       <p>
         <Link to="/courses/ARHI30482">ARHI 30482: Art Now</Link>
       </p>
+
+       {/* ------------------------------------------------- */}
+      <h3>2025-26</h3>
       <p>
-        <Link to="/courses/ARHI30489">ARHI 30489: Art in Chicago</Link>
-      </p>
-      {/* ------------------------------------------------- */}
-      <h3>Fall 2025</h3>
-      <p>
-        <Link to="/courses/ARHI13182">ARHI 13182: University Seminar</Link>
+        <Link to="/courses/ARHI30482S26">ARHI 30482: Art Now</Link>
       </p>
       <p>
-        <Link to="/courses/ARHI43406">ARHI 43406: Topics in Contemporary Art</Link>
+        <Link to="/courses/ARHI30489S26">ARHI 30489: Art in Chicago</Link>
+      </p>
+      <p>
+        <Link to="/courses/ARHI13182F25">ARHI 13182: University Seminar</Link>
+      </p>
+      <p>
+        <Link to="/courses/ARHI43406F25">ARHI 43406: Topics in Contemporary Art</Link>
       </p>
 
       {/* ------------------------------------------------- */}
