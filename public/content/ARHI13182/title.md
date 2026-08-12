@@ -1,1 +1,1 @@
-ARHI 13182: University seminar
+ARHI 13182: University Seminar: Intro to art history at the museum - Nature and Landscape

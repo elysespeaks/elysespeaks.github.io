@@ -4,22 +4,31 @@ The primary means of evaluation will be presentations and papers, but **preparat
 
 #### Writing & presentation components  
 * **Short annotations** — **15 %**  
-  * Two – three paragraphs for nearly every class (17–19 total).  
-  * Summarize the readings, link them to previous material, and pose questions.  
-  * Submit before class; two skips allowed. Late = fail for that day unless pre‑arranged.  
-* **Short visual presentation** — **5 %**  
-  * One 5‑minute analysis that opens a class session.  
+  * Approx. 3 paragraph daily responses to in-class readings for each assigned class; three may be skipped (approx. 15 total).  
+  * In these annotations, you want to assess at least one key argument, link to previous material, and pose at least two key questions for discussion.  
+  * Submit before class by email in a running google doc with the newest annotation at the top; three skips allowed. No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  
+* **Visual presentations** — **10 %**  
+  
+  * One presentation will provide a set of discussion questions and key visual analysis to frame a class session; one presentation will be on a Biennale pavilion.  No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  
 * **Annotated bibliography** — **10 %**  
-  * Due early April; foundation for the final paper.  
-* **Research paper** — **35 %**  
-  * One 10 – 12 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  
-  * Late: –½ letter grade / day (unless extension arranged in advance).  
-* **Final presentation** — **15 %**  
-  * A 15‑minute image‑based talk and hand‑out drawn from your paper.  
-* **Attendance & participation** — **20 %**  
-  * One unexcused absence allowed; each additional unexcused absence = –5 pts on participation.  
-  * >5 absences of any kind may make it impossible to pass.  
-  * Participation = careful reading, notes, and substantive in‑class contributions.
+  
+  * Question listed at the top; foundation for the final paper.  No AI may be used; doing so will result in a failing grade on the assignment.
+  
+* **Research paper** — **30 %**  
+  
+  * One approx. 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  
+* **Final presentation** — **10 %**  
+  
+  * A 12‑minute image‑based talk on research for final assignment.  
+  
+* **Attendance & participation** — **25 %**  
+  
+  * Two unexcused absences allowed; each additional unexcused absence = –5 pts on participation.  
+  * >5 absences of any kind will likely result in an inability to pass the course unless there are extenuating circumstances.  
+  * Participation includes careful reading, notes, and substantive in‑class contributions.
 
 ---
 
@@ -29,7 +38,7 @@ Failure to complete any assignment may result in failing the course.
 The Notre Dame Academic Code of Honor applies in full:  
 > “As a member of the Notre Dame community, I will not participate in or tolerate academic dishonesty.”  
 
-Use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) is **prohibited**. See the [Honor Code website](https://honorcode.nd.edu/) for details.
+Use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) is **prohibited** and will result in an Honor Code Violation report and other penalties as agreed upon or as stated above. See the [Honor Code website](https://honorcode.nd.edu/) for details.
 
 ---
 
