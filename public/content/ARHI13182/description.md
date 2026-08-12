@@ -7,8 +7,8 @@
 ### Office Hours  
 307 Decio  
 
-- TBD pm in person - book appointments  [here](https://calendar.app.google/XTmx9s7oPJQEpXGU6)
-- Other times by Zoom — email espeaks@nd.edu or book appointments [here](https://calendar.app.google/phuixEgdk91Rwsyu7)
+- TBD Tuesdays pm in person - book appointments [here](https://calendar.app.google/XTmx9s7oPJQEpXGU6)
+- MWF times by Zoom — email espeaks@nd.edu or book appointments [here](https://calendar.app.google/EqWwhVhhREpE7EPXA)
 
 ---
 
@@ -20,8 +20,6 @@ In this seminar we study and write about a wide range of works of art in local m
 **Credits:** 3
 
 ---
-
-### Format
 
 ### Format
 

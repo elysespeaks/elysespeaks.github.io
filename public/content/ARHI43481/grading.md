@@ -30,15 +30,19 @@ The primary means of evaluation will be presentations and papers, but **preparat
   * >5 absences of any kind will likely result in an inability to pass the course unless there are extenuating circumstances.  
   * Participation includes careful reading, notes, and substantive in‑class contributions.
 
+Resources are available for accessibility support. Additionally, Care and Wellness consultants can provide support and resources to students who are experiencing stressful or difficult situations that may be interfering with academic progress. For both, [visit this site.](https://supportandcare.nd.edu/for-students/current-students/)
+
 ---
 
 #### Honor Code & use of AI
+
+<strong>All</strong> assignments, exams, and papers are subject to the academic honor code. Generative artificial intelligence (AI) programs, such as ChatGPT, may be used to help you with understanding the readings if you have trouble after you have completed them, but may not not be used for any written work, responses, papers, or assignments required in this course. The use of generative AI programs defeats the writing requirements and critical thinking skills that are vital to achieving our learning outcomes. Submission of partial or complete work from generative AI programs is not permitted and will be treated as plagiarism as defined within the academic honor code. This includes within your responses (and it is very clear when it has been used).
 
 Failure to complete any assignment may result in failing the course.  
 The Notre Dame Academic Code of Honor applies in full:  
 > “As a member of the Notre Dame community, I will not participate in or tolerate academic dishonesty.”  
 
-Use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) is **prohibited** and will result in an Honor Code Violation report and other penalties as agreed upon or as stated above. See the [Honor Code website](https://honorcode.nd.edu/) for details.
+Again, all use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) for assignments is **prohibited** and will result in an Honor Code Violation report and other penalties as agreed upon or as stated above. See the [Honor Code website](https://honorcode.nd.edu/) for details.
 
 ---
 

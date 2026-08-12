@@ -1,6 +1,6 @@
 ### Schedule  
-T/Th 9:30 – 10:45 a.m.  O’Shag  
-Office Hours: **307 Decio** — Tue 12 : 30 – 1 : 30 p.m. (in person) and Thu by Zoom ([link](https://notredame.zoom.us/j/3345598856)); other times by appointment.
+T/Th 9:30 – 10:45 a.m. 106  O’Shag  
+Office Hours: **307 Decio** — Tue . (in person) and other times by Zoom ([click here](https://calendar.app.google/EqWwhVhhREpE7EPXA) to book [Zoom link](https://notredame.zoom.us/j/3345598856)); email me directly for other times.
 
 ### Topic  
 
@@ -14,11 +14,11 @@ Artists we will study include **Mike Kelley, Cady Noland, David Hammons, Fre
 
 ### Classroom etiquette  
 
-* **Be on time **– out of respect for classmates.  
-* **Stay present** – phones off, no texting.  
+* **Please be on time **– this is out of respect for classmates and due to the weird configuration of our classroom. 
+* **Stay present** – please have phones off and put away; no texting or social media is allowed.  
 * **Come alert & ready to talk** – you may be called on without notice (coffee encouraged!).  
 * **Attendance & attention** are both essential.  
-* Some works contain explicit content; speak with me if you have concerns.
+* Some works contain explicit content; please speak with me if you have concerns.
 
 ### Goals & Objectives  
 

@@ -2,9 +2,9 @@ Have a question? Want to discuss your progress, art-history majors/minors, or a 
 
 - **Email:** espeaks@nd.edu  — best for quick questions  
 - **Office:** 307 Decio  
-- **Phone:** 574-631-9673 (checked less often than email)  
+- **Phone:** 574-631-9673 
 - **Office hours:**  
-  - Tuesdays 12:30 – 1:30 pm (in person)  
-  - Other times by Zoom – email to arrange
+  - Tuesdays: (in person)  
+  - Other times by Zoom – click here to book or email to arrange
 
-Because this is a small seminar I encourage each of you to drop by at least once this semester for a chat.
+Because this is a small seminar I would very much like for the opportunity to meet with each of you one-on-one. Please drop by this semester for a chat! 
