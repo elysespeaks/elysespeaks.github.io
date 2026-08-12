@@ -4,7 +4,7 @@
 
 The course grades are based on in-class notes, papers, presentations, and notes, oral exam, and participation.
 
-Short visual analysis assignments: four-five 1-2pp. assignments over the course of the semester. For each, you will be asked to answer a specific question in order to focus on one analytic skill and approach to art history.  Late papers lose **5 pts/day**. Incomplete drafts count as late.  
+Short assignments: five assignments over the course of the semester. For each, you will be asked to focus on one analytic skill and approach to art history. Late papers lose **5 pts/day**. Incomplete assignments and drafts count as late.  
 
 Final exhibition and accompanying paper: introductory essay, catalogue entries, and design, plus research file, endnotes, bibliography, and images. This assignment will be based on a theme of your choice, and will require independent research and thinking. You will be asked to submit your research file and notes supporting your decisions, to give a presentation to the class on your research and preliminary design, and to submit a final version of the assignment followed by an oral exam in which you explain and justify your design and conceptual structure. 
 
@@ -14,7 +14,7 @@ Final presentations and oral exam -each student will give a short presentation o
 
 | Components | Weight |
 |-----------|--------|
-| **Short assignments** (1–2 pp. each) – first draft and final draft | **20 %** |
+| **Short assignments** (total for all) | **20 %** |
 | **Research bibliography assignment** (for final exhibition) | **7 %** |
 | **Final exhibition assignment** / paper | **23 %** |
 | **Oral exam** (including notes, reserach file, and discussion) | **20 %** |
