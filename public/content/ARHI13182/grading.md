@@ -10,7 +10,7 @@ Final exhibition and accompanying paper: introductory essay, catalogue entries, 
 
 Participation: you all have valuable ideas to contribute and participation in any seminar is an essential part of the class. Overall participation is very important in this seminar due to the important component of looking and discussing works of art on-site, and should plan to come to class each day prepared to share informed views about the readings and works that we will discuss. Additionally, taking notes will be important to your progress, so these will be submitted as part of your final assignment.  More than 2 unexcused absences will result in a decrease in your overall grade by 5% each time. Unless there is an exceptional circumstance, five or more absences for any reason will result in an inability to pass the class.
 
-Final presentations and oral exam -each student will give a short presentation on their final exhibitions and will perform a short oral exam explaining and defending your exhibition choices. More info will be provided later in the semester.  
+Final presentations and oral exam - each student will give a short presentation on their final exhibitions and will perform an oral exam explaining and defending your exhibition choices. More info will be provided later in the semester.  
 
 | Components | Weight |
 |-----------|--------|
@@ -64,4 +64,4 @@ College students often experience things that may interfere with academic succes
 
 ### Honor Code & AI Policy  
 
-All work must follow the Notre Dame Academic Code of Honor (“I will not participate in or tolerate academic dishonesty”). **Generative-AI tools are prohibited** from use for all graded assignments in this course; use will result in an Honor Code Violation, failing the assignment, and other actions. See <http://honorcode.nd.edu>.
+All work must follow the Notre Dame Academic Code of Honor (“I will not participate in or tolerate academic dishonesty”). **Generative-AI tools are prohibited** from use for all graded assignments in this course; use will result in an Honor Code Violation, failing the assignment, and other actions. See <http://honorcode.nd.edu>. Ask if you are unsure—clarity is part of learning.
