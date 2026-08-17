@@ -14,7 +14,7 @@ Artists we will study include **Mike Kelley, Cady Noland, David Hammons, Fre
 
 ### Classroom etiquette  
 
-* **Please be on time **– this is out of respect for classmates and due to the weird configuration of our classroom. 
+* **Please be on time ** – this is out of respect for classmates and due to the weird configuration of our classroom. 
 * **Stay present** – please have phones off and put away; no texting or social media is allowed.  
 * **Come alert & ready to talk** – you may be called on without notice (coffee encouraged!).  
 * **Attendance & attention** are both essential.  

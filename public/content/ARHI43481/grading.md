@@ -4,25 +4,25 @@ The primary means of evaluation will be presentations and papers, but **preparat
 
 #### Writing & presentation components  
 * **Short annotations** — **15 %**  
-  * Approx. 3 paragraph daily responses to in-class readings for each assigned class; three may be skipped (approx. 15 total).  
-  * In these annotations, you want to assess at least one key argument, link to previous material, and pose at least two key questions for discussion.  
-  * Submit before class by email in a running google doc with the newest annotation at the top; three skips allowed. No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  * Approx. 3 paragraph/1 page single space daily responses to in-class readings for each assigned class; three may be skipped (15 total).  
+  * In these annotations, you want to 1) assess at least one key argument, 2) link to previous material, and 3) pose at least two key questions for discussion. These are to be more about your thoughts than they are about trying to summarize everything about the readings. The key is to make them about our class content and discussions and to use them as prompts for conversation.   
+  * Submit before class by email in a running google doc with the newest annotation at the top; three skips allowed. No AI may be used; use will result in a failing grade on the annotation, an Honor Code violation report, and potentially failing the class. 
   
 * **Visual presentations** — **10 %**  
   
-  * One presentation will provide a set of discussion questions and key visual analysis to frame a class session; one presentation will be on a Biennale pavilion.  No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  * One presentation will provide a set of discussion questions and key visual analysis to frame a class session; one presentation will be on a Biennale pavilion. No AI may be used; use will result in a failing grade on the presentation, an Honor Code violation report, and potentially failing the class. 
   
 * **Annotated bibliography** — **10 %**  
   
-  * Question listed at the top; foundation for the final paper.  No AI may be used; doing so will result in a failing grade on the assignment.
+  * Question listed at the top; foundation for the final paper.  No AI may be used; use will result in a failing grade on the bibliography, an Honor Code violation report, and potentially failing the class. 
   
 * **Research paper** — **30 %**  
   
-  * One approx. 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper and potentially the class. 
+  * One approx. 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
   
 * **Final presentation** — **10 %**  
   
-  * A 12‑minute image‑based talk on research for final assignment.  
+  * A 12‑minute image‑based talk on research for final assignment.  No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
   
 * **Attendance & participation** — **25 %**  
   
@@ -42,7 +42,7 @@ Failure to complete any assignment may result in failing the course.
 The Notre Dame Academic Code of Honor applies in full:  
 > “As a member of the Notre Dame community, I will not participate in or tolerate academic dishonesty.”  
 
-Again, all use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) for assignments is **prohibited** and will result in an Honor Code Violation report and other penalties as agreed upon or as stated above. See the [Honor Code website](https://honorcode.nd.edu/) for details.
+Again, all use of generative‑AI or grammar‑assistant tools (e.g., Grammarly) for all graded assignments is **prohibited** and will result in an Honor Code Violation report and other penalties as agreed upon or as stated above. See the [Honor Code website](https://honorcode.nd.edu/) for details.
 
 ---
 
