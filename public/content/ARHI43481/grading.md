@@ -8,7 +8,7 @@ The primary means of evaluation will be presentations and papers, but **preparat
   * In these annotations, you want to 1) assess at least one key argument, 2) link to previous material, and 3) pose at least two key questions for discussion. These are to be more about your thoughts than they are about trying to summarize everything about the readings. The key is to make them about our class content and discussions and to use them as prompts for conversation.   
   * Submit before class by email in a running google doc with the newest annotation at the top; three skips allowed. No AI may be used; use will result in a failing grade on the annotation, an Honor Code violation report, and potentially failing the class. 
   
-* **Visual presentations** — **10 %**  
+* **Visual presentations** — **15 %**  
   
   * One presentation will provide a set of discussion questions and key visual analysis to frame a class session; one presentation will be on a Biennale pavilion. No AI may be used; use will result in a failing grade on the presentation, an Honor Code violation report, and potentially failing the class. 
   
@@ -18,11 +18,11 @@ The primary means of evaluation will be presentations and papers, but **preparat
   
 * **Research paper** — **30 %**  
   
-  * One approx. 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
+  * One approximately 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
   
-* **Final presentation** — **10 %**  
+* **Final presentation** — **5 %**  
   
-  * A 12‑minute image‑based talk on research for final assignment.  No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
+  * An approximately 12‑minute image‑based talk on research for final assignment.  More info to follow. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
   
 * **Attendance & participation** — **25 %**  
   

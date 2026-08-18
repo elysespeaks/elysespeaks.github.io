@@ -10,7 +10,7 @@ In the wake of the post‑modern, theory‑heavy 1980s, many 1990s artists turne
 * **Institutional critique** – turning the museum’s own apparatus back on itself.  
 * **The craft turn** – re‑valuing hand skills (embroidery, beadwork, weaving) to confront fine‑art hierarchies.
 
-Artists we will study include **Mike Kelley, Cady Noland, David Hammons, Fred Wilson, Andrea Fraser, Renée Green, Cecilia Vicuña, Yinka Shonibare, and kimsooja**.
+Artists we will study include **Mike Kelley, Cady Noland, David Hammons, Fred Wilson, Jack Whitten, Wangechi Mutu, Renée Green, Cecilia Vicuña, Yinka Shonibare, and kimsooja**.
 
 ### Classroom etiquette  
 

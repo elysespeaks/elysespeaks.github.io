@@ -33,4 +33,4 @@
 | **T 12/1** | Presentations | TBA | — |
 | **Th 12/3** | Presentations | TBA | — |
 | **T 12/8** | Presentations/Conclusion | — | — |
-| **—** | **Final papers due 10 a.m. Mon Dec  (email)**  |  |  |
+| **—** | **Final papers due 10 a.m. Mon Dec  14 (unless an extension is requested) by email** |  |  |
