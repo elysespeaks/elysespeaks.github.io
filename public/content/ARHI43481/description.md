@@ -32,4 +32,4 @@ After the course you should be able to
 
 ### Texts  
 
-All readings, images, PowerPoints, and video clips are on the course website using your ND NetID).  Check the site frequently and report any broken links.
+All readings, images, PowerPoints, and video clips are on the course website using your ND NetID).  Check the site frequently and report any broken links. Note that you'll need to refresh the website (or close it and open it) daily to view the updates.
