@@ -4,8 +4,8 @@ The primary means of evaluation will be presentations and papers, but **preparat
 
 #### Writing & presentation components  
 * **Short annotations** — **15 %**  
-  * Approx. 3 paragraph/1 page single space daily responses to in-class readings for each assigned class; three may be skipped (15 total).  
-  * In these annotations, you want to 1) assess at least one key argument, 2) link to previous material, and 3) pose at least two key questions for discussion. These are to be more about your thoughts than they are about trying to summarize everything about the readings. The key is to make them about our class content and discussions and to use them as prompts for conversation.   
+  * Single-space daily responses to class readings for each assigned class; three may be skipped (15 total).  
+  * Please see assignment handout. In these annotations, you want to 1) assess at least one key argument, 2) link to previous material, and 3) pose at least two key questions for discussion. These are to be about thoughts about specific ideas in the readings.  The key is to connect them to class content and discussions and to use them as prompts for conversation.   
   * Submit before class by email in a running google doc with the newest annotation at the top; three skips allowed. No AI may be used; use will result in a failing grade on the annotation, an Honor Code violation report, and potentially failing the class. 
   
 * **Visual presentations** — **15 %**  
