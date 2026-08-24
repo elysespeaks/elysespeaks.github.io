@@ -32,4 +32,4 @@ After the course you should be able to
 
 ### Texts  
 
-All readings, images, PowerPoints, and video clips are on the course website (access via **www3.nd.edu/espeaks** using your ND NetID).  Check the site frequently and report any broken links.
+All readings, images, PowerPoints, and video clips are on the course website using your ND NetID).  Check the site frequently and report any broken links.
