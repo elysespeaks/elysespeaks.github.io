@@ -18,7 +18,7 @@ The primary means of evaluation will be presentations and papers, but **preparat
   
 * **Research paper** — **30 %**  
   
-  * One approximately 10 pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
+  * One approximately 10-pp. paper. Rough draft encouraged; outline & bibliography due on the syllabus date.  Late penalty of 5% assessed by the day. No AI may be used; use will result in a failing grade on the paper, an Honor Code violation report, and potentially failing the class. 
   
 * **Final presentation** — **5 %**  
   
