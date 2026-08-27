@@ -7,7 +7,7 @@
 ### Office Hours  
 307 Decio  
 
-- TBD Tuesdays 12:15-1:15 pm in person - you are welcome to drop by, but since I see many students it is often easiest to book appointments [here](https://calendar.app.google/Aa4q9nq4712XCgTq8)
+- Tuesdays 12:15-1:15 pm in person - you are welcome to drop by, but since I see many students it is often easiest to book appointments [here](https://calendar.app.google/Aa4q9nq4712XCgTq8)
 - MWF times by Zoom — email espeaks@nd.edu or book appointments [here](https://calendar.app.google/EqWwhVhhREpE7EPXA)
 
 ---
