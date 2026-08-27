@@ -1,6 +1,6 @@
 ### Schedule  
 T/Th 9:30 – 10:45 a.m. 106  O’Shag  
-Office Hours: **307 Decio** — Tue . (in person) and other times by Zoom ([click here](https://calendar.app.google/EqWwhVhhREpE7EPXA) to book [Zoom link](https://notredame.zoom.us/j/3345598856)); email me directly for other times.
+Office Hours: **307 Decio** — Tue . 12:15-1:15pm (in person) and other times by Zoom ([click here](https://calendar.app.google/EqWwhVhhREpE7EPXA) to book [Zoom link](https://notredame.zoom.us/j/3345598856)); email me directly for many other available times. It is often easiest to make an appointement.
 
 ### Topic  
 
