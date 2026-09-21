@@ -29,4 +29,4 @@
 | **T 12/1** | Presentations | TBA |  |
 | **Th 12/3** | Presentations | TBA |  |
 | **T 12/8** | **Oral exams begin** | Schedule your oral exam time here. These continue through exam week. You must submit your final assignment 24 hours before your scheduled exam time. |  |
-| **Final paper** | [Final exhibition assignment]() - due 12/7 10:00 am, or as otherwise arranged by email | Please schedule your oral exam time above. | |
+| "Section" **Final paper** | [Final exhibition assignment]() - due 12/7 10:00 am, or as otherwise arranged by email | Please schedule your oral exam time above. | |
