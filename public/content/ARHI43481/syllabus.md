@@ -28,9 +28,9 @@
 | **Th 11/12** | Ecology, Making, and Art  <br>Presentation: Julia<br>**[Annotated bibliographies due by email 11/16](https://drive.google.com/file/d/1wKR-hrwCNl9p2KKMCNweHIxYzfAsD2Pp/view?usp=drive_link)** | Oluremi Onabanjo, "Shifting Grounds, Living Things," Bienniale Catalogue <br/>[Otobong Nkanga interview, Sculpture Magazine, all.](https://drive.google.com/file/d/10hBSFk85ecZfZgJd5QsiPs38p6mzY_Xm/view?usp=drive_link)<br> [Vera Tamari](https://www.labiennale.org/en/art/2026/vera-tamari); [Interview](https://www.family.style/articles/vera-tamari-palestine-art) |  |
 | **T 11/17** | Individual Research Meetings  <br>*no response paper* | Final paper guidelines |  |
 | **Th 11/19** | Textiles into Life<br>Presentation: Sonya | [Wendt, “Sewing into Life,” *Kimsooja: Unfolding,* all.](https://drive.google.com/file/d/1m5wq5Ub4wqpp2FEgSEmEGdnSStYBOLYD/view?usp=drive_link)  <br>[“Kimsooja: Ways of Being,” conversation (skim)](https://kimsooja.com/texts/daina-augaitis-kimsooja-ways-of-being)  <br>[Victoria-Idongesit Usonian at the Biennale, African Column, all.](https://drive.google.com/file/d/1EjlPmG-YoDj4Z4xw4Pw3vyv5CNEyNv-3/view?usp=drive_link) |  |
-| **T 11/24** | Presentations | Grads |  |
+| **T 11/24** | Presentations | Antonio<br>Ben<br>Henson<br>Sonya |  |
 | "Section" | ***Thanksgiving Break Nov 25-29*** | | |
-| **T 12/1** | Presentations | Grads |  |
-| **Th 12/3** | Presentations | UG |  |
-| **T 12/8** | Presentations/Conclusion | UG |  |
+| **T 12/1** | Presentations | Brad<br>Emily<br>Naomi<br>Sofiia |  |
+| **Th 12/3** | Presentations | Julia<br>Maeve<br>Sara Arellano<br>Syd |  |
+| **T 12/8** | Presentations/Conclusion | Daniel<br>Freddy<br>Patrick<br>Sara Ab. |  |
 | "Section" | **Final papers due 10 a.m. Mon Dec  14 (unless an extension is requested) by email** |  |  |
